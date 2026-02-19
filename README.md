@@ -9,7 +9,7 @@ An automated forensic financial analysis of the full Department of Justice discl
 ## Key Findings
 
 - **1.83 million files** ingested across 12 DOJ datasets plus community-sourced archives
-- **$1.11 billion** in financial activity classified across **24,623 transactions**
+- **$1.10 billion** in financial activity classified across **24,623 transactions**
 - **18 transaction categories** including wire transfers, shell corporations, real estate, aviation, legal fees, and victim/trafficking indicators
 - **Three-tier confidence model** separating court-confirmed amounts from dataset-sourced and entity-matched estimates
 - **59.2% SAR coverage** against known Suspicious Activity Reports — identifying a **$322 million unclassified gap**
@@ -24,7 +24,7 @@ The analysis pipeline processes raw government PDFs through extraction, classifi
 ```
 Corpus Assembly  →  Indexed 1.83M files from DOJ site, torrents, ZIP archives, manifests
 Text Extraction  →  PyMuPDF native text + Tesseract OCR fallback on scanned documents
-Entity Recognition  →  spaCy NLP across full corpus (11.4M entities, 687K persons)
+Entity Recognition  →  spaCy NLP across full corpus (11.4M entities, 734K persons)
 Financial Classification  →  885-keyword system with 3-tier confidence scoring
 Fund Flow Mapping  →  Entity-to-entity transaction reconstruction
 Person-of-Interest Ranking  →  Weighted composite scoring with news-source filtering
@@ -37,7 +37,7 @@ DOJ 303 Cross-Reference  →  Navigation tool with dual hyperlinks to source fil
 
 | Deliverable | Description |
 |---|---|
-| **Financial Summary** | $1.11B classified across 18 categories with confidence tiers and SAR benchmarks |
+| **Financial Summary** | $1.10B classified across 18 categories with confidence tiers and SAR benchmarks |
 | **Person-of-Interest Rankings** | Scored entity list filtered for false positives, news contamination, and OCR artifacts |
 | **DOJ 303 Cross-Reference** | 296/303 names matched with signal-level scoring and hyperlinked source documents |
 | **Methodology Documentation** | Pipeline architecture, classification logic, deduplication rules, known limitations |
@@ -51,12 +51,12 @@ All deliverables use SSFS (Staff-Friendly Spreadsheet) formatting — designed f
 | Metric | Count |
 |---|---|
 | Total files indexed | 1,830,154 |
-| PDFs processed | 626,057 |
-| Text extractions | 1,450,867 |
+| PDFs in corpus | 1,828,246 |
+| Text extractions | 1,852,060 |
 | Entities extracted | 11,438,106 |
-| Persons identified | 687,442 |
+| Unique persons identified | 734,122 |
 | Financial transactions | 24,623 |
-| Total classified value | $1,113,847,229 |
+| Total classified value | $1,102,152,148 |
 | DOJ 303 names matched | 296 / 303 |
 
 ---
