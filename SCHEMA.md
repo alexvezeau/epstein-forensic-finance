@@ -96,7 +96,7 @@ EPSTEIN FORENSIC DATABASE (6.9GB)
 │   │       └── Regulatory filing data
 │   │
 │   └── MASTER OUTPUT
-│       └── master_wire_ledger ────── 382 Phase 24-audited wires ★
+│       └── master_wire_ledger ────── 382 Phase 25-audited wires ★
 │           ├── entity_from → entity_to
 │           ├── amount, date
 │           ├── source (verified_wires / audited_PROVEN / audited_STRONG)
@@ -108,7 +108,8 @@ EPSTEIN FORENSIC DATABASE (6.9GB)
 │           │   └── MONEY_IN / INTERNAL_MOVE / MONEY_OUT /
 │           │       BANK_SHELL / SHELL_BANK / PASS_THROUGH
 │           ├── is_date_recovery (Phase 23)
-│           └── is_above_cap (Phase 24)
+│           ├── is_above_cap (Phase 24)
+│           └── is_phase25_recovery (Phase 25 date recovery)
 │
 ├── REDACTION ANALYSIS LAYER
 │   ├── redaction_recovery ────────── Content under redaction overlays

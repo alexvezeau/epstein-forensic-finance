@@ -27,7 +27,7 @@ To my knowledge, this represents the first systematic attempt to reconstruct the
 | **Unique persons identified** | **734,122** | 1,536 registry | 1,589 | — |
 | **Financial transactions modeled** | **81,451** (5B) + **23,832** (5C directional) | ~186 normalized | 0 | 0 |
 | **Directional fund flows (A→B)** | **23,832** | qualitative | 0 | 0 |
-| **Wire transfers in master ledger** | **382** (Phase 24 audited) | 0 | 0 | 0 |
+| **Wire transfers in master ledger** | **382** (Phase 25 audited) | 0 | 0 | 0 |
 | **Relational database tables** | **28+** | 3-4 | — | — |
 | **Confidence-tiered scoring** | ✅ 5-axis | — | — | — |
 | **Redaction proximity analysis** | ✅ | ✅ (different method) | — | — |
@@ -48,7 +48,7 @@ To my knowledge, this represents the first systematic attempt to reconstruct the
 | **Total Financial Activity Extracted** | **$1,964,229,742** (Unverified) |
 | **FinCEN SAR Benchmark** | $1,878,000,000 |
 | **Extraction Coverage** | **104.6%** |
-| **Extraction Phases** | 24 |
+| **Extraction Phases** | 25 |
 | **Contamination Bugs Caught & Fixed** | 9 |
 | **Wire Transfers in Master Ledger** | 382 |
 | **Shell-to-Shell Transfers Identified** | 43 |
@@ -136,7 +136,7 @@ This is not a search index. This is a relational forensic database.
 - `fincen_bank_connections` — Bank relationship mapping from regulatory filings
 - `financial_hits` — 35,375 raw financial content extraction markers
 - `financial_redactions` — Redacted financial content specifically tracked
-- `master_wire_ledger` — 382 Phase 24-audited wires with flow direction and entity classification
+- `master_wire_ledger` — 382 Phase 25-audited wires with flow direction and entity classification
 
 **Entity Intelligence**
 - `entities` — 11.4M extracted entities with NLP classification (PERSON, ORG, GPE)
@@ -171,10 +171,10 @@ Phase 5B   Operational Cost Model → confidence-tiered financial extraction
 Phase 5C   Entity-to-Entity Fund Flows → directional A→B with 5-axis scoring
 Phase 5D   Payment-Travel-Victim Correlation → temporal pattern analysis
 Phase 5E   Redaction Map → navigational tool for document analysis
-Phases 14-24  Wire Transfer Extraction Pipeline → 382-wire master ledger, $1.964B
+Phases 14-25  Wire Transfer Extraction Pipeline → 382-wire master ledger, $1.964B
 ```
 
-### Wire Transfer Extraction Pipeline (Phases 14-24)
+### Wire Transfer Extraction Pipeline (Phases 14-25)
 
 | Phase | What Happened | Impact |
 |-------|--------------|--------|
@@ -186,6 +186,7 @@ Phases 14-24  Wire Transfer Extraction Pipeline → 382-wire master ledger, $1.9
 | 22 | Forensic scrub — chain-hop inflation removed | -$311M removed |
 | 23 | Date-aware census (same amount, different dates) | +$189M recovered |
 | 24 | Above-cap verified wires + bank custodian audit | +$121M / -$113M |
+| **25** | **Date recovery from source context fields** | **75 dates recovered (31.9%→51.6%), 0 collisions** |
 
 Full phase-by-phase details: **[METHODOLOGY.md](METHODOLOGY.md)**
 
@@ -249,13 +250,13 @@ The financial data tells stories that numbers alone cannot convey. As I complete
 
 ```
 ├── README.md                              ← You are here
-├── METHODOLOGY.md                         ← 24-phase pipeline, 9 bugs, 5-axis scoring, limitations
+├── METHODOLOGY.md                         ← 25-phase pipeline, 9 bugs, 5-axis scoring, limitations
 ├── FINDINGS.md                            ← GAP analysis, 8 key discoveries, recommendations
 ├── COMPLIANCE.md                          ← Professional standards, GAAS conformance, legal disclaimers
 ├── SCHEMA.md                              ← Database architecture diagram
 ├── NETWORK.md                             ← Trust network flow diagram
 ├── data/
-│   ├── master_wire_ledger_phase24.json    ← 382 wires (publication dataset)
+│   ├── master_wire_ledger_phase25.json    ← 382 wires (publication dataset)
 │   └── entity_classification.json         ← Entity → type mapping (158 entities)
 ├── workbook/
 │   ├── EPSTEIN_FORENSIC_WORKBOOK_v6.xlsx  ← 11-tab forensic workbook
@@ -274,12 +275,12 @@ The financial data tells stories that numbers alone cannot convey. As I complete
 | Tab | Name | Description |
 |:---:|------|-------------|
 | 1 | Executive Summary | Headline $1.964B (Unverified), three-tier framework, why >100% |
-| 2 | Extraction Phases | 24-phase pipeline with running totals, bug fixes color-coded |
+| 2 | Extraction Phases | 25-phase pipeline with running totals, bug fixes color-coded |
 | 3 | **Money Flow Patterns** | Every wire classified: MONEY IN / INTERNAL MOVE / MONEY OUT |
 | 4 | **Shell Trust Hierarchy** | 4-tier network with actual dollar flows per entity |
 | 5 | Master Wire Ledger | 382 wires with flow direction, entity types, recovery flags |
 | 6 | Above-Cap Verified | 8 court-verified wires above $10M ($120.6M) |
-| 7 | Date Recovery | Same-amount different-date analysis (95 recovered instances) |
+| 7 | Date Recovery | Same-amount different-date analysis (95 Phase 23 + 75 Phase 25 recoveries) |
 | 8 | Entity P&L | 158 entities with inflow/outflow/net, shell flags |
 | 9 | Shell Network | 221 shell-involved wires, 43 shell-to-shell |
 | 10 | SAR Comparison | Bank-by-bank vs FinCEN benchmarks |
@@ -374,6 +375,7 @@ The underlying DOJ documents are U.S. government publications in the public doma
 | Feb 20 | Fund flows audit v6.2: $1.43B in P+S transactions, 39% SAR coverage |
 | Feb 21 | Wire extraction pipeline (Phases 14-24): $1.964B, 104.6% SAR coverage |
 | Feb 21 | Forensic workbook v6.1 published (11 tabs, 382-wire master ledger) |
+| Feb 21 | Phase 25: Date recovery from context fields — 75 dates (31.9%→51.6%), 0 collisions |
 | Ongoing | Data narratives and follow-on analysis |
 
 ---

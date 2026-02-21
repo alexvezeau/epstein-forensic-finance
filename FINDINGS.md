@@ -6,7 +6,7 @@
 
 ## Executive Summary
 
-After 24 extraction phases across 1,575,000 DOJ EFTA files (from a corpus of 1,476,377 indexed files + 503K cataloged media items across 19 datasets), I recovered **$1,964,229,742** (Unverified) in documented financial activity — **104.6%** of the $1.878 billion FinCEN SAR benchmark. The extraction revealed a structured 4-tier trust network with 43 confirmed shell-to-shell wire transfers.
+After 25 extraction phases across 1,575,000 DOJ EFTA files (from a corpus of 1,476,377 indexed files + 503K cataloged media items across 19 datasets), I recovered **$1,964,229,742** (Unverified) in documented financial activity — **104.6%** of the $1.878 billion FinCEN SAR benchmark. The extraction revealed a structured 4-tier trust network with 43 confirmed shell-to-shell wire transfers.
 
 ---
 
@@ -158,12 +158,13 @@ Consistent with NES LLC functioning as a personal expense shell for Maxwell.
 | Unique dollar amounts extracted (v2-20) | 2,532 |
 | Date-recovered additional instances (Phase 23) | 95 |
 | Above-cap verified wires added (Phase 24) | 8 |
+| Date recoveries from source context (Phase 25) | 75 (0 collisions) |
 | Contamination bugs caught & fixed | 9 |
 | Total inflation removed by bug fixes | $691.8M |
 | Total legitimate recovery from bug fixes | $484.1M |
 | Net bug fix impact | -$207.7M (inflation exceeded recovery) |
 | Final master ledger entries | 382 wires |
-| Entries with dates | 122 (32%) |
+| Entries with dates | 197 (51.6%) — 122 original + 75 Phase 25 recoveries |
 | Entries with court exhibit references | 122 (verified_wires tier) |
 | Shell-to-shell transfers identified | 43 |
 | Unique entities in master ledger | 158 |

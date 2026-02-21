@@ -26,7 +26,7 @@ While SSFS No. 1 formally applies to AICPA members performing forensic services 
 |----------------|---------------------------|
 | **Professional competence** | Practitioner holds MS Applied Data Science and professional experience in multi-affiliate financial reconciliation and budget auditing |
 | **Due professional care** | 9 contamination bugs identified and corrected; three-tier confidence framework; 10 limitations documented |
-| **Planning and supervision** | 24-phase pipeline with quality gates at each stage; dedup evolution across three methodological generations |
+| **Planning and supervision** | 25-phase pipeline with quality gates at each stage; dedup evolution across four methodological generations |
 | **Sufficient relevant data** | 1,575,000 files across 19 datasets; 7,355 classified fund flows; 185 court-exhibit verified wires |
 | **Documentation** | Complete methodology published; every extraction rule, scoring weight, and classification threshold documented |
 | **Communication of results** | All outputs labeled (Unverified); navigational-tool disclaimers; no attribution of guilt |
@@ -48,11 +48,11 @@ GAAS applies to audits of financial statements by independent auditors. This ana
 | **General Standard 1: Training & Proficiency** | Practitioner's professional background in institutional financial data analysis, automated classification systems, and multi-affiliate reconciliation |
 | **General Standard 2: Independence** | No financial relationship with any entity in the dataset; no engagement by any party; no compensation received |
 | **General Standard 3: Due Care** | Multiple quality gates; contamination bug detection; conservative bias in classification (excluding WEAK/VERY_WEAK tiers worth $991M) |
-| **Fieldwork Standard 1: Planning** | Structured 24-phase pipeline with defined scope, data sources, and extraction rules at each phase |
+| **Fieldwork Standard 1: Planning** | Structured 25-phase pipeline with defined scope, data sources, and extraction rules at each phase |
 | **Fieldwork Standard 2: Internal Control** | Three-stage dedup evolution (amount-only → date-aware → verified-tier); entity classification audit; custodian suffix audit |
 | **Fieldwork Standard 3: Evidence** | Court-exhibit verified wires (122 entries with bates stamps); 5-axis confidence scoring; cross-table reconciliation |
 | **Reporting Standard 1: GAAP Conformity** | N/A — no financial statements are produced |
-| **Reporting Standard 2: Consistency** | Consistent methodology applied across all 24 phases; documented deviations (Phase 22 chain-hop removal, Phase 24 cap removal) |
+| **Reporting Standard 2: Consistency** | Consistent methodology applied across all 25 phases; documented deviations (Phase 22 chain-hop removal, Phase 24 cap removal, Phase 25 date recovery) |
 | **Reporting Standard 3: Disclosure** | 10 limitations documented; (Unverified) tags on all amounts; bug fixes disclosed with impact amounts |
 | **Reporting Standard 4: Opinion** | **No opinion is expressed.** This analysis produces findings, not audit opinions. |
 
