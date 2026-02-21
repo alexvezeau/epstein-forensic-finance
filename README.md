@@ -375,7 +375,7 @@ The underlying DOJ documents are U.S. government publications in the public doma
 | Feb 20 | Fund flows audit v6.2: $1.43B in P+S transactions, 39% SAR coverage |
 | Feb 21 | Wire extraction pipeline (Phases 14-24): $1.964B, 104.6% SAR coverage |
 | Feb 21 | Forensic workbook v6.1 published (11 tabs, 382-wire master ledger) |
-| Feb 21 | Phase 25: Date recovery from context fields — 75 dates (31.9%→51.6%), 0 collisions |
+| Feb 21 | Phase 25: Date recovery from context fields — 75 dates (31.9%→51.6%), 0 collisions (credit: u/miraculum_one) |
 | Ongoing | Data narratives and follow-on analysis |
 
 ---

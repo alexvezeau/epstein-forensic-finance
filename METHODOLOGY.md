@@ -111,7 +111,7 @@ I added date as a dedup dimension: `(amount, entity_from, entity_to, date)`. Thi
 I removed the $10M safety cap for court-exhibit verified wires. All 8 above-cap entries had exhibit numbers, bates stamps, dates, and named counterparties.
 
 **Stage 4 (Phase 25): Date Recovery from Source Context**
-I queried source database tables (`fund_flows_audited.date_ref`, `fund_flows_audited.context_snippet`, `verified_wires.date`, `fund_flows.context`) to recover dates for 75 previously undated wires — improving date coverage from 31.9% to 51.6%. Zero collisions with existing dated entries confirmed that all undated wires were genuinely unique, validating the earlier dedup methodology. Credit: Reddit user observation that dates were present in context fields.
+I queried source database tables (`fund_flows_audited.date_ref`, `fund_flows_audited.context_snippet`, `verified_wires.date`, `fund_flows.context`) to recover dates for 75 previously undated wires — improving date coverage from 31.9% to 51.6%. Zero collisions with existing dated entries confirmed that all undated wires were genuinely unique, validating the earlier dedup methodology. Credit: u/miraculum_one (Reddit) identified that dates were present in context fields.
 
 ### Entity Classification
 
