@@ -108,7 +108,7 @@ This is not a finding about guilt. It is a finding about structure. The financia
 
 ---
 
-*Source: DOJ EFTA Document Release — 11.4 million entity records across 1.48 million files. Entity co-occurrence measured by unique file count per document category. Wire transfer data from Deutsche Bank-SDNY Production (Exhibits A–E), 185 verified wires. Document type classifications from automated pipeline with manual validation. Supporting data: <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?usp=sharing&ouid=103970896670138914877&rtpof=true&sd=true" target="_blank">Forensic Workbook (view-only)</a>. This analysis is published as part of the <a href="https://github.com/randallscott25-star/epstein-forensic-finance" target="_blank">Epstein Financial Forensics</a> repository.*
+*Source: DOJ EFTA Document Release — 11.4 million entity records across 1.48 million files. Entity co-occurrence measured by unique file count per document category. Wire transfer data from Deutsche Bank-SDNY Production (Exhibits A–E), 185 verified wires. Document type classifications from automated pipeline with manual validation. Supporting data: <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?usp=sharing&ouid=103970896670138914877&rtpof=true&sd=true" target="_blank">Forensic Workbook (view-only)</a>. This analysis is published as part of the <a href="https://github.com/randallscott25-star/epstein-forensic-finance#readme" target="_blank">Epstein Financial Forensics</a> repository.*
 
 *For the girls.*
 

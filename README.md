@@ -389,7 +389,7 @@ All financial amounts are (Unverified) automated extractions unless explicitly n
 ```
 Taylor, R.S. (2026). Epstein Financial Forensics: Automated forensic financial
 reconstruction from 1.48 million DOJ EFTA documents. GitHub.
-https://github.com/randallscott25-star/epstein-forensic-finance
+https://github.com/randallscott25-star/epstein-forensic-finance#readme
 ```
 
 ---

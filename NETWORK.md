@@ -4,7 +4,7 @@
 
 ---
 
-## <a href="https://img.shields.io/badge/🔍_Explore_the_Network-Interactive_Visualization-d4a853?style=for-the-badge" target="_blank">![Open Interactive Visualization</a>](https://randallscott25-star.github.io/epstein-forensic-finance/visualizations/shell_network.html)
+## [![Open Interactive Visualization](https://img.shields.io/badge/🔍_Explore_the_Network-Interactive_Visualization-d4a853?style=for-the-badge)](https://randallscott25-star.github.io/epstein-forensic-finance/visualizations/shell_network.html)
 
 > **Drag** nodes to rearrange · **Scroll** to zoom · **Click** any node for full detail panel · **Search** by name · **Filter** by connection type
 >

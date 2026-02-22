@@ -143,7 +143,7 @@ We mapped the rivers. The corpus shows there are also streams, creeks, and under
 
 ---
 
-*Source: DOJ EFTA Document Release — 11.4 million entity records across 1.48 million files. Shell entities identified by ORG-type entity search filtered for corporate suffixes (Trust, LLC, Inc, LP, Ltd) with Epstein co-occurrence. Document co-occurrence measured by shared file_id counts. Money mentions measured by MONEY-type entity co-occurrence. This analysis is published as part of the <a href="https://github.com/randallscott25-star/epstein-forensic-finance" target="_blank">Epstein Financial Forensics</a> repository.*
+*Source: DOJ EFTA Document Release — 11.4 million entity records across 1.48 million files. Shell entities identified by ORG-type entity search filtered for corporate suffixes (Trust, LLC, Inc, LP, Ltd) with Epstein co-occurrence. Document co-occurrence measured by shared file_id counts. Money mentions measured by MONEY-type entity co-occurrence. This analysis is published as part of the <a href="https://github.com/randallscott25-star/epstein-forensic-finance#readme" target="_blank">Epstein Financial Forensics</a> repository.*
 
 *For the girls.*
 
