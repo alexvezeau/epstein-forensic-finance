@@ -19,7 +19,7 @@ To my knowledge, this represents the first systematic attempt to reconstruct the
 
 ## 📌 Start Here
 
-> **11 data narratives** reconstruct how $1.964 billion moved through 14 shell entities across 8+ banking institutions. Every claim is anchored to specific court exhibits and bates stamps.
+> **16 data narratives** reconstruct how $1.964 billion moved through 14 shell entities across 8+ banking institutions. Every claim is anchored to specific court exhibits and bates stamps.
 >
 > **→ [Read the Data Narratives](narratives/)** · **[Explore the Interactive Network](https://randallscott25-star.github.io/epstein-forensic-finance/visualizations/shell_network.html)** · **[View the Forensic Workbook](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?usp=sharing&ouid=103970896670138914877&rtpof=true&sd=true)**
 
@@ -36,6 +36,11 @@ To my knowledge, this represents the first systematic attempt to reconstruct the
 | 9 | [734,122 Names](narratives/09_734122_names.md) | Every person in 1.48M files scanned. 57 bridgers. No one hiding. |
 | 10 | [The Round Number Problem](narratives/10_the_round_number_problem.md) | Benford's Law fails: 84.3% exact round numbers. One decision-maker. |
 | 11 | [The Shell Map](narratives/11_the_shell_map.md) | 14 shells, 8 banks. Bear Stearns has 5.7× more activity than Deutsche Bank. |
+| 12 | [The Bank Nobody Prosecuted](narratives/12_the_bank_nobody_prosecuted.md) | Bear Stearns: 5.7× Deutsche Bank volume, zero enforcement action |
+| 13 | [Seven Banks, One Trust](narratives/13_seven_banks_one_trust.md) | Outgoing Money Trust used 7 banks for disbursement — textbook structuring |
+| 14 | [Where Leon Black's Money Went](narratives/14_where_leon_blacks_money_went.md) | 1,600 files. Every shell. $60.5M in, Apollo Management out the other side |
+| 15 | [Gratitude America: The Charity That Invested](narratives/15_gratitude_america.md) | 83% to hedge funds, Epstein's girlfriend on the records, IRS no statute of limitations |
+| 16 | [The Accountant](narratives/16_the_accountant.md) | Richard Kahn's CPA firm: 18,833 emails across every shell in the network |
 
 
 
@@ -268,6 +273,11 @@ The financial data tells stories that numbers alone cannot convey. As I complete
 | 4 | [Chain-Hop Anatomy](narratives/04_chain_hop_anatomy.md) | 4-tier shell network mapped — and $311M in double-counting removed | 67 wires · $312,796,381 |
 | 5 | [Deutsche Bank's Role](narratives/05_deutsche_bank.md) | 38 wires across every major Epstein entity, 75% of volume in last 6 months | 38 wires · $56,792,936 |
 | 6 | [Gratitude America](narratives/06_gratitude_america.md) | 88% of outflows to investment accounts, 7% to charitable purposes | 20 wires · $13,080,518 |
+| 12 | [The Bank Nobody Prosecuted](narratives/12_the_bank_nobody_prosecuted.md) | Bear Stearns had 2.4M money mentions (5.7× Deutsche Bank) but faced zero fines, zero settlements, zero investigation | 2.4M money refs · 66 shared files |
+| 13 | [Seven Banks, One Trust](narratives/13_seven_banks_one_trust.md) | Outgoing Money Trust disbursed through Deutsche Bank, Wells Fargo, BofA, TD, JPMorgan, PNC, Sabadell — textbook structuring pattern | 180 financial docs · 7 banks |
+| 14 | [Where Leon Black's Money Went](narratives/14_where_leon_blacks_money_went.md) | 1,600 files, every shell, "Black Family Partners LP c/o Apollo Management" on Southern Trust records — the round trip | 1,600 files · $60.5M · 7 shells |
+| 15 | [Gratitude America: The Charity That Invested](narratives/15_gratitude_america.md) | Tax-exempt charity routing $2–20M to Boothbay, Honeycomb, Valar, Coatue. Karyna Shuliak on 8 files. 990s are public | 89 financial · $45M wires |
+| 16 | [The Accountant](narratives/16_the_accountant.md) | Richard Kahn / HBRK Associates: 18,833 emails, 11,153 files, touches every shell. Modest fees, $1.964B coordinated | 18,833 emails · 11,153 files |
 | 7 | [Follow the Money, Follow the Plane](narratives/07_follow_the_money_follow_the_plane.md) | Wire-flight temporal correlation at 4.3× random chance; $169M near St. Thomas flights | 185 wires · 321 flights · $575M |
 | 8 | [The Infrastructure of Access](narratives/08_infrastructure_of_access.md) | The people who moved the money are the same people victims named — Maxwell in 204 financial docs and 1,312 victim docs | 11.4M entities · 1.48M files |
 | 9 | [734,122 Names](narratives/09_734122_names.md) | Asked every person in 1.48M files who bridges financial and victim docs. 57 real names. 10 operational staff. No one hiding who hasn't been found | 734,122 persons · 57 bridgers |
