@@ -16,6 +16,28 @@ To my knowledge, this represents the first systematic attempt to reconstruct the
 
 ---
 
+## 📌 Start Here
+
+> **11 data narratives** reconstruct how $1.964 billion moved through 14 shell entities across 8+ banking institutions. Every claim is anchored to specific court exhibits and bates stamps.
+>
+> **→ [Read the Data Narratives](narratives/)** · **[Explore the Interactive Network](https://randallscott25-star.github.io/epstein-forensic-finance/visualizations/shell_network.html)** · **[View the Forensic Workbook](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?usp=sharing&ouid=103970896670138914877&rtpof=true&sd=true)**
+
+| # | Narrative | Key Finding |
+|---|-----------|-------------|
+| 1 | [The Jeepers Pipeline](narratives/01_jeepers_pipeline.md) | $57.9M brokerage shell → personal checking, every wire dated |
+| 2 | [Art Market as Liquidity Channel](narratives/02_art_market.md) | Sotheby's + Christie's proceeds entered through Haze Trust |
+| 3 | [The Plan D Question](narratives/03_plan_d_question.md) | $18M out to Leon Black, near-zero inflow — where did it come from? |
+| 4 | [Chain-Hop Anatomy](narratives/04_chain_hop_anatomy.md) | 4-tier shell network mapped, $311M double-counting removed |
+| 5 | [Deutsche Bank's Role](narratives/05_deutsche_bank.md) | 38 wires, 75% of volume in last 6 months — and DB ranks 3rd by volume |
+| 6 | [Gratitude America](narratives/06_gratitude_america.md) | 88% to investments, 7% to charity — a "charity" that isn't one |
+| 7 | [Follow the Money, Follow the Plane](narratives/07_follow_the_money_follow_the_plane.md) | Wire-flight correlation at 4.3× random chance; $169M near St. Thomas flights |
+| 8 | [The Infrastructure of Access](narratives/08_infrastructure_of_access.md) | The people who moved the money are the people victims named |
+| 9 | [734,122 Names](narratives/09_734122_names.md) | Every person in 1.48M files scanned. 57 bridgers. No one hiding. |
+| 10 | [The Round Number Problem](narratives/10_the_round_number_problem.md) | Benford's Law fails: 84.3% exact round numbers. One decision-maker. |
+| 11 | [The Shell Map](narratives/11_the_shell_map.md) | 14 shells, 8 banks. Bear Stearns has 5.7× more activity than Deutsche Bank. |
+
+
+
 ## The Database
 
 | Metric | This Project | Largest Narrative Repo | Largest Search Platform | Others |
