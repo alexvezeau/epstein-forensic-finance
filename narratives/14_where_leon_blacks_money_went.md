@@ -164,6 +164,20 @@ Apollo Management (13 files), Elysium Management LLC (9), Coatue Enterprises (6)
 - BV70 LLC confirmed as Black family entity; Narrow Holdings LLC c/o Elysium Management confirmed
 - Elysium Management: Leon D. Black and Brad Wechsler as Managing Directors
 
+### 📄 EFTA Source Documents
+
+*Click any document ID to open the DOJ PDF in a new tab. Click a Dataset number to browse neighboring files.*
+
+| Document | Source | Description |
+|----------|--------|-------------|
+| <a href="https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf" target="_blank">EFTA00027019</a> | DS8 | Deutsche Bank-SDNY Production: Exhibit A — 12 Black-entity transfers to Southern Trust ($60.5M verified) |
+| Full EFTA Corpus | DS1–12 | Leon Black: 1,600 file matches across all datasets |
+| <a href="https://www.apollo.com/~/media/Files/A/Apollo-V3/documents/dechert-report.pdf" target="_blank">Dechert LLP Independent Review (2021)</a> | External | Dechert LLP independent review — $158–170M total Black-to-Epstein payments |
+| <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-8-files" target="_blank">Dataset 8</a> | DS8 | Browse Dataset 8 |
+| <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-9-files" target="_blank">Dataset 9</a> | DS9 | Browse Dataset 9 |
+
+**All 12 DOJ Datasets:** <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-1-files" target="_blank">1</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-2-files" target="_blank">2</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-3-files" target="_blank">3</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-4-files" target="_blank">4</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-5-files" target="_blank">5</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-6-files" target="_blank">6</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-7-files" target="_blank">7</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-8-files" target="_blank">8</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-9-files" target="_blank">9</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-10-files" target="_blank">10</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-11-files" target="_blank">11</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-12-files" target="_blank">12</a>
+
 ### 📊 Verify in Forensic Workbook
 
 | Exhibit / Analysis | View in Workbook |

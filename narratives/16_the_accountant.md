@@ -181,6 +181,21 @@ Richard Kahn (11,153), Jeffrey Epstein (4,510), JEE variants (7,300 combined), R
 - DOJ/FBI never questioned Kahn or Indyke in connection with any criminal investigation (Senate Finance Committee, December 2025)
 - Bank of America lawsuit: Kahn "devised schemes to entrap" trafficking victims and "serviced the taxes of numerous Epstein victims"
 
+### 📄 EFTA Source Documents
+
+*Click any document ID to open the DOJ PDF in a new tab. Click a Dataset number to browse neighboring files.*
+
+| Document | Source | Description |
+|----------|--------|-------------|
+| Full EFTA Corpus | DS1–12 | HBRK Associates / Richard Kahn: 11,153 files (18,833 emails) |
+| Full EFTA Corpus | DS1–12 | Shell entity co-occurrence: Southern Financial (89), Southern Trust (96), Haze Trust (22) |
+| <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-8-files" target="_blank">Dataset 8</a> | DS8 | Browse Dataset 8 |
+| <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-9-files" target="_blank">Dataset 9</a> | DS9 | Browse Dataset 9 — primary email archive location |
+
+> **Note:** Kahn's document footprint spans all 12 datasets. Email volume (18,833) exceeds all other entity types combined.
+
+**All 12 DOJ Datasets:** <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-1-files" target="_blank">1</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-2-files" target="_blank">2</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-3-files" target="_blank">3</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-4-files" target="_blank">4</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-5-files" target="_blank">5</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-6-files" target="_blank">6</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-7-files" target="_blank">7</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-8-files" target="_blank">8</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-9-files" target="_blank">9</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-10-files" target="_blank">10</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-11-files" target="_blank">11</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-12-files" target="_blank">12</a>
+
 ### 📊 Verify in Forensic Workbook
 
 | Exhibit / Analysis | View in Workbook |

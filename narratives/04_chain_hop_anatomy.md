@@ -93,6 +93,15 @@ This narrative synthesizes the full 382-wire ledger to demonstrate inter-entity 
 ### Scope Note
 The 4-tier model (intake → holding → distribution → personal) describes patterns visible in one bank's production. The full architecture includes Financial Trust Company (Bear Stearns), Outgoing Money Trust (7 banks), and other entities documented in N11–N13.
 
+### 📄 EFTA Source Documents
+
+*Click any document ID to open the DOJ PDF in a new tab. Click a Dataset number to browse neighboring files.*
+
+| Document | Source | Description |
+|----------|--------|-------------|
+| <a href="https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf" target="_blank">EFTA00027019</a> | DS8 | Deutsche Bank-SDNY Production: Exhibits A–E (all 5 exhibits, 382 wires, $1.964B) |
+| <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-8-files" target="_blank">Dataset 8</a> | DS8 | Browse neighboring documents in Dataset 8 |
+
 ### 📊 Verify in Forensic Workbook
 
 | Exhibit / Analysis | View in Workbook |

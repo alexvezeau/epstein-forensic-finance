@@ -118,6 +118,19 @@ Recurring fees: $7,000 (39 mentions), $7,200 (18)
 - rhowardstone INVESTIGATION_8: Identifies Stewart Oldfield alongside Brigid Macias, Firdaus Madiar, Monica Gilkins, Rachel Wachs as Deutsche Bank staff processing Epstein transactions
 - BSA structuring threshold: $10,000 (31 U.S.C. § 5324) — OMT disbursement pattern shows amounts clustered below and at round thresholds
 
+### 📄 EFTA Source Documents
+
+*Click any document ID to open the DOJ PDF in a new tab. Click a Dataset number to browse neighboring files.*
+
+| Document | Source | Description |
+|----------|--------|-------------|
+| Full EFTA Corpus | DS1–12 | Outgoing Money Trust: 195 documents (180 financial), 7 banking relationships |
+| <a href="https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf" target="_blank">EFTA00027019</a> | DS8 | Deutsche Bank-SDNY Production: Exhibits A–E (trust network wires for cross-reference) |
+| <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-8-files" target="_blank">Dataset 8</a> | DS8 | Browse Dataset 8 |
+| <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-9-files" target="_blank">Dataset 9</a> | DS9 | Browse Dataset 9 — multi-bank financial records |
+
+**All 12 DOJ Datasets:** <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-1-files" target="_blank">1</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-2-files" target="_blank">2</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-3-files" target="_blank">3</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-4-files" target="_blank">4</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-5-files" target="_blank">5</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-6-files" target="_blank">6</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-7-files" target="_blank">7</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-8-files" target="_blank">8</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-9-files" target="_blank">9</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-10-files" target="_blank">10</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-11-files" target="_blank">11</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-12-files" target="_blank">12</a>
+
 ### 📊 Verify in Forensic Workbook
 
 | Exhibit / Analysis | View in Workbook |

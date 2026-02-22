@@ -122,6 +122,17 @@ The round-number problem is not that the transfers are fake. It is that they are
 ### Scope Note
 Benford's test applied to Deutsche Bank wire production only. The test could be extended to Bear Stearns/JPMorgan transaction data if those records become available through future enforcement actions or EFTA releases.
 
+### 📄 EFTA Source Documents
+
+*Click any document ID to open the DOJ PDF in a new tab. Click a Dataset number to browse neighboring files.*
+
+| Document | Source | Description |
+|----------|--------|-------------|
+| <a href="https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf" target="_blank">EFTA00027019</a> | DS8 | Deutsche Bank-SDNY Production: Exhibits A–E — 185 wire transfers tested against Benford's Law |
+| <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-8-files" target="_blank">Dataset 8</a> | DS8 | Browse neighboring documents in Dataset 8 |
+
+> **Note:** Statistical framework (Benford's Law) is an analytical tool applied to EFTA data, not itself sourced from the corpus.
+
 ### 📊 Verify in Forensic Workbook
 
 | Exhibit / Analysis | View in Workbook |

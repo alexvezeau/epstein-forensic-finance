@@ -110,6 +110,16 @@ The 2020 DFS settlement confirms regulatory findings that Deutsche Bank's compli
 - NYDFS consent order (2020): Deutsche Bank fined $150M for BSA/AML failures
 - SDNY production: Exhibits A–E from Deutsche Bank compliance records
 
+### 📄 EFTA Source Documents
+
+*Click any document ID to open the DOJ PDF in a new tab. Click a Dataset number to browse neighboring files.*
+
+| Document | Source | Description |
+|----------|--------|-------------|
+| <a href="https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf" target="_blank">EFTA00027019</a> | DS8 | Deutsche Bank-SDNY Production: Exhibits C, D, E — 38 Deutsche Bank wires |
+| <a href="https://www.dfs.ny.gov/reports_and_publications/press_releases/pr202007061" target="_blank">NYDFS Consent Order (2020)</a> | External | NYDFS $150M consent order re: Deutsche Bank Epstein accounts |
+| <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-8-files" target="_blank">Dataset 8</a> | DS8 | Browse neighboring documents in Dataset 8 |
+
 ### 📊 Verify in Forensic Workbook
 
 | Exhibit / Analysis | View in Workbook |

@@ -146,6 +146,18 @@ Flight logs extracted from EFTA corpus (doc_type = flight_log). Correlation comp
 ### Scope Note
 Wire dates are from Deutsche Bank production only. Flight correlations may also exist with Bear Stearns/JPMorgan transaction dates not available in this production. The 4.3× rate is a lower bound.
 
+### 📄 EFTA Source Documents
+
+*Click any document ID to open the DOJ PDF in a new tab. Click a Dataset number to browse neighboring files.*
+
+| Document | Source | Description |
+|----------|--------|-------------|
+| <a href="https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf" target="_blank">EFTA00027019</a> | DS8 | Deutsche Bank-SDNY Production: Exhibits A–E (160 dated wire transfers) |
+| <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-8-files" target="_blank">Dataset 8</a> | DS8 | APIS/CBP passenger manifests — aircraft N212JE, N908JE |
+| <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-9-files" target="_blank">Dataset 9</a> | DS9 | APIS/CBP passenger manifests — additional flight records |
+| <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-11-files" target="_blank">Dataset 11</a> | DS11 | APIS/CBP passenger manifests — additional flight records |
+| <a href="https://registry.faa.gov/AircraftInquiry" target="_blank">FAA Aircraft Registry</a> | External | FAA Aircraft Registry — tail number N212JE (Gulfstream), N908JE (Boeing 727) |
+
 ### 📊 Verify in Forensic Workbook
 
 | Exhibit / Analysis | View in Workbook |

@@ -125,6 +125,20 @@ Top recurring amounts: $80M (37 mentions), $500M (14), $55M (15), $10M (21), $20
 - JPMorgan settled $290M (2023) for 2013–2019 relationship
 - Neither settlement covers Bear Stearns-era activity (1976–2008)
 
+### 📄 EFTA Source Documents
+
+*Click any document ID to open the DOJ PDF in a new tab. Click a Dataset number to browse neighboring files.*
+
+| Document | Source | Description |
+|----------|--------|-------------|
+| Full EFTA Corpus | DS1–12 | Bear Stearns: 191 financial files, 2,381,211 money-entity mentions |
+| Full EFTA Corpus | DS1–12 | Financial Trust Company: 1,014 total files across all document types |
+| <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-8-files" target="_blank">Dataset 8</a> | DS8 | Browse Dataset 8 |
+| <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-9-files" target="_blank">Dataset 9</a> | DS9 | Browse Dataset 9 — primary Bear Stearns/FTC document location |
+| <a href="https://efts.sec.gov/LATEST/search-index?q=%22financial+trust+company%22&dateRange=custom&startdt=2019-01-01&enddt=2020-12-31" target="_blank">SEC EDGAR — Financial Trust Co. filings</a> | External | SEC EDGAR — Financial Trust Co. investigation reference (HO-13814) |
+
+**All 12 DOJ Datasets:** <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-1-files" target="_blank">1</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-2-files" target="_blank">2</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-3-files" target="_blank">3</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-4-files" target="_blank">4</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-5-files" target="_blank">5</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-6-files" target="_blank">6</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-7-files" target="_blank">7</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-8-files" target="_blank">8</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-9-files" target="_blank">9</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-10-files" target="_blank">10</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-11-files" target="_blank">11</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-12-files" target="_blank">12</a>
+
 ### 📊 Verify in Forensic Workbook
 
 | Exhibit / Analysis | View in Workbook |

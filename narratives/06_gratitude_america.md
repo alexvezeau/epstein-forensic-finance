@@ -119,6 +119,15 @@ The largest single destination for Gratitude America's outflows was "Gratitude A
 **Method**: Entity co-occurrence analysis across 209 files containing "Gratitude America."
 **Database**: 1,476,377 files, 11.4M extracted entities (see METHODOLOGY.md).
 
+### 📄 EFTA Source Documents
+
+*Click any document ID to open the DOJ PDF in a new tab. Click a Dataset number to browse neighboring files.*
+
+| Document | Source | Description |
+|----------|--------|-------------|
+| <a href="https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf" target="_blank">EFTA00027019</a> | DS8 | Deutsche Bank-SDNY Production: Exhibit E — Gratitude America Ltd. wire activity |
+| <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-8-files" target="_blank">Dataset 8</a> | DS8 | Browse neighboring documents in Dataset 8 |
+
 ### 📊 Verify in Forensic Workbook
 
 | Exhibit / Analysis | View in Workbook |

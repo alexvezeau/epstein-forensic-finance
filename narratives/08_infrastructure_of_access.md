@@ -127,6 +127,27 @@ Corpus-wide entity co-occurrence analysis — not limited to any single exhibit.
 ### Scope Note
 This narrative draws from the full EFTA corpus, not limited to Deutsche Bank wire production. Staff identification based on cross-document-type presence (email + financial + court filing + fax).
 
+### 📄 EFTA Source Documents
+
+*Click any document ID to open the DOJ PDF in a new tab. Click a Dataset number to browse neighboring files.*
+
+| Document | Source | Description |
+|----------|--------|-------------|
+| <a href="https://www.justice.gov/epstein/files/DataSet%208/EFTA00023049.pdf" target="_blank">EFTA00023049</a> | DS8 | Maxwell — Minor, Minor Victim-3 document |
+| <a href="https://www.justice.gov/epstein/files/DataSet%209/EFTA00065479.pdf" target="_blank">EFTA00065479</a> | DS9 | Maxwell/Groff email — Trafficking Victims Protection Act |
+| <a href="https://www.justice.gov/epstein/files/DataSet%209/EFTA00073465.pdf" target="_blank">EFTA00073465</a> | DS9 | Maxwell court filing — Crime Victims' Rights Act |
+| <a href="https://www.justice.gov/epstein/files/DataSet%209/EFTA00173201.pdf" target="_blank">EFTA00173201</a> | DS9 | Groff/Maxwell — Jeffrey Epstein-Victim, Sex Trafficking |
+| <a href="https://www.justice.gov/epstein/files/DataSet%209/EFTA00371439.pdf" target="_blank">EFTA00371439</a> | DS9 | Groff email — Victim Payouts |
+| <a href="https://www.justice.gov/epstein/files/DataSet%209/EFTA00429909.pdf" target="_blank">EFTA00429909</a> | DS9 | Lesley Groff — Federal Crime Victims Rights Act |
+| <a href="https://www.justice.gov/epstein/files/DataSet%209/EFTA00446172.pdf" target="_blank">EFTA00446172</a> | DS9 | Lesley Groff — Jane Doe reference |
+| <a href="https://www.justice.gov/epstein/files/DataSet%209/EFTA00067267.pdf" target="_blank">EFTA00067267</a> | DS9 | Sarah Kellen subpoena — Victim |
+| <a href="https://www.justice.gov/epstein/files/DataSet%209/EFTA00261508.pdf" target="_blank">EFTA00261508</a> | DS9 | Maxwell document — VICTIM |
+| <a href="https://www.justice.gov/epstein/files/DataSet%209/EFTA00313632.pdf" target="_blank">EFTA00313632</a> | DS9 | Maxwell court filing — Plaintiff Jane Doe |
+| <a href="https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf" target="_blank">EFTA00027019</a> | DS8 | Deutsche Bank-SDNY Production: Exhibits A–E (185 verified wires for staff cross-reference) |
+| Full EFTA Corpus | DS1–12 | 11.4M entity records across 1,476,377 files — person × document co-occurrence |
+
+**All 12 DOJ Datasets:** <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-1-files" target="_blank">1</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-2-files" target="_blank">2</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-3-files" target="_blank">3</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-4-files" target="_blank">4</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-5-files" target="_blank">5</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-6-files" target="_blank">6</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-7-files" target="_blank">7</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-8-files" target="_blank">8</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-9-files" target="_blank">9</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-10-files" target="_blank">10</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-11-files" target="_blank">11</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-12-files" target="_blank">12</a>
+
 ### 📊 Verify in Forensic Workbook
 
 | Exhibit / Analysis | View in Workbook |

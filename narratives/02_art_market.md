@@ -103,6 +103,15 @@ The outflow amounts ($5M, $8M, $9M, $10M) are round numbers — consistent with 
 ### Scope Note
 Haze Trust also co-occurs with Financial Trust Company (19 shared files), which banked at Bear Stearns. The HSBC Bermuda wire ($58,328) confirms an offshore banking relationship beyond Deutsche Bank. See N11 for full multi-bank context.
 
+### 📄 EFTA Source Documents
+
+*Click any document ID to open the DOJ PDF in a new tab. Click a Dataset number to browse neighboring files.*
+
+| Document | Source | Description |
+|----------|--------|-------------|
+| <a href="https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf" target="_blank">EFTA00027019</a> | DS8 | Deutsche Bank-SDNY Production: Exhibit D — Art Market Proceeds (Sotheby's, Christie's → Haze Trust) |
+| <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-8-files" target="_blank">Dataset 8</a> | DS8 | Browse neighboring documents in Dataset 8 |
+
 ### 📊 Verify in Forensic Workbook
 
 | Exhibit / Analysis | View in Workbook |
