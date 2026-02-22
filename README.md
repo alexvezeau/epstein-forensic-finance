@@ -235,13 +235,17 @@ Only one gap ($5-15M excluded tiers) has a credible dollar estimate. The others 
 
 The financial data tells stories that numbers alone cannot convey. As I complete deeper analysis of specific fund flow patterns, entity relationships, and temporal correlations, I will publish detailed narrative reports in this section — connecting the quantitative forensic findings to the broader picture of how this financial infrastructure operated.
 
-**Forthcoming:**
-- The Jeepers Pipeline: Tracing $51.9M through a brokerage shell to personal accounts
-- Art Market Liquidity: How auction house proceeds moved through Haze Trust
-- The Plan D Question: $18M out, near-zero in — where did the money come from?
-- Chain-Hop Anatomy: How $10M becomes $50M across five entities
-- Deutsche Bank's Role: 78 wires and the custodian question
-- Gratitude America: When 7% goes to charity and 88% goes to investment accounts
+**→ [Read all Data Narratives](narratives/)**
+
+| # | Title | Key Finding | Wires | Volume (Unverified) |
+|---|-------|-------------|-------|------|
+| 1 | [The Jeepers Pipeline](narratives/01_jeepers_pipeline.md) | $57.9M brokerage shell → personal checking, all dated, all on Exhibit C | 24 | $57,876,640 |
+| 2 | [Art Market as Liquidity Channel](narratives/02_art_market.md) | Sotheby's + Christie's proceeds entered the shell network through Haze Trust | 20 | $103,786,473 |
+| 3 | [The Plan D Question](narratives/03_plan_d_question.md) | $18M out to Leon Black, near-zero inflow — where did Plan D get its money? | 34 | $163,097,604 |
+| 4 | [Chain-Hop Anatomy](narratives/04_chain_hop_anatomy.md) | 4-tier shell network mapped — and $311M in double-counting removed | 67 | $312,796,381 |
+| 5 | [Deutsche Bank's Role](narratives/05_deutsche_bank.md) | 38 wires across every major Epstein entity, 75% of volume in last 6 months | 38 | $56,792,936 |
+| 6 | [Gratitude America](narratives/06_gratitude_america.md) | 88% of outflows to investment accounts, 7% to charitable purposes | 20 | $13,080,518 |
+| 7 | [Follow the Money, Follow the Plane](narratives/07_follow_the_money_follow_the_plane.md) | Wire-flight temporal correlation at 4.3× random chance; $169M near St. Thomas flights | 185 + 321 flights | $575,359,330 |
 
 *These narratives will be data-driven — every claim anchored to specific wire transfers, entity classifications, and court exhibit references from the master ledger.*
 
