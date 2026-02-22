@@ -94,20 +94,20 @@ def doj_url_dataset_page(ds):
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 def efta_to_md_link(efta_id: str) -> str | None:
-    """Convert 'EFTA00027019' → '[EFTA00027019](https://...pdf)'"""
+    """Convert 'EFTA00027019' → '<a href="https://...pdf" target="_blank">EFTA00027019</a>'"""
     num_str = efta_id.replace("EFTA", "")
     num = int(num_str)
     ds = efta_to_dataset(num)
     url = doj_url_files(num, ds)
     if url is None:
         return None
-    return f"[{efta_id}]({url})"
+    return f'<a href="{url}" target="_blank">{efta_id}</a>'
 
 
 def dataset_to_md_link(display_text: str, ds_num: int) -> str:
-    """Convert 'Dataset 9' → '[Dataset 9](https://...browse-page)'"""
+    """Convert 'Dataset 9' → '<a href="https://...browse-page" target="_blank">Dataset 9</a>'"""
     url = doj_url_dataset_page(ds_num)
-    return f"[{display_text}]({url})"
+    return f'<a href="{url}" target="_blank">{display_text}</a>'
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -115,10 +115,21 @@ def dataset_to_md_link(display_text: str, ds_num: int) -> str:
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 def is_already_linked(text: str, start: int, end: int) -> bool:
-    """Check if the match at [start:end] is already inside a markdown link."""
-    # Look back for [ that hasn't been closed
+    """Check if the match at [start:end] is already inside a markdown link or HTML a-tag."""
+    # Look back for context
     before = text[max(0, start - 200):start]
     after = text[end:min(len(text), end + 200)]
+
+    # Pattern 0: Inside an HTML <a> tag
+    # Check if we're between <a ...> and </a>
+    last_a_open = before.rfind('<a ')
+    last_a_close = before.rfind('</a>')
+    if last_a_open > last_a_close:
+        # We're inside an <a> tag
+        return True
+    # Check if href="...EFTA..." (we're inside an href value)
+    if 'href="' in before[-80:] and '"' not in before[before.rfind('href="') + 6:]:
+        return True
 
     # Pattern 1: [EFTA...](url) — we're the link text
     if before.endswith('[') and after.startswith(']('):
@@ -128,13 +139,11 @@ def is_already_linked(text: str, start: int, end: int) -> bool:
     paren_before = before.rfind('](')
     paren_close = after.find(')')
     if paren_before != -1 and paren_close != -1:
-        # Check that there's no ) between ]( and our position
         between = before[paren_before:]
         if ')' not in between:
             return True
 
     # Pattern 3: Already a full markdown link [EFTA...](...)
-    # Check if [ precedes and ](...) follows
     bracket_open = before.rfind('[')
     bracket_close_after = after.find(')')
     if bracket_open != -1 and bracket_close_after != -1:
@@ -230,7 +239,7 @@ def linkify_dataset_refs(text: str) -> tuple[str, int]:
             n = int(m.group())
             if 1 <= n <= 12:
                 url = doj_url_dataset_page(n)
-                return f"[{n}]({url})"
+                return f'<a href="{url}" target="_blank">{n}</a>'
             return m.group()
 
         linked_nums = re.sub(r'\d+', replace_num, nums_part)

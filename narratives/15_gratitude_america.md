@@ -141,7 +141,7 @@ The data is in the EFTA documents. The 990s are public. The comparison is straig
 
 **Methodology:** Entity co-occurrence analysis of Gratitude America financial documents against investment fund names and charitable organization names. Money values from MONEY-type entity extraction on financial documents. Document type classification from automated pipeline. All amounts are unverified automated extractions. See [Methodology](../METHODOLOGY.md).
 
-**Source data:** [Master Wire Ledger](../data/master_wire_ledger_phase25.json) · [Forensic Workbook](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?usp=sharing&ouid=103970896670138914877&rtpof=true&sd=true) · [Interactive Network](https://randallscott25-star.github.io/epstein-forensic-finance/visualizations/shell_network.html)
+**Source data:** [Master Wire Ledger](../data/master_wire_ledger_phase25.json) · <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?usp=sharing&ouid=103970896670138914877&rtpof=true&sd=true" target="_blank">Forensic Workbook</a> · <a href="https://randallscott25-star.github.io/epstein-forensic-finance/visualizations/shell_network.html" target="_blank">Interactive Network</a>
 
 **Related narratives:** [N3: Outflow Recipients](03_outflow_recipients.md) · [N11: The Shell Map](11_the_shell_map.md) · [N14: Leon Black](14_where_leon_blacks_money_went.md)
 
@@ -154,7 +154,7 @@ The data is in the EFTA documents. The 990s are public. The comparison is straig
 ## Source Documents & Exhibits
 
 ### Primary Exhibit
-**Exhibit E** ([EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf)): Gratitude America MMDA disbursements.
+**Exhibit E** (<a href="https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf" target="_blank">EFTA00027019</a>): Gratitude America MMDA disbursements.
 
 ### Wire Ledger Cross-Reference
 12 Exhibit E wires, $6,253,493 total (see N6 appendix for full wire table — identical Exhibit E source).
@@ -182,7 +182,7 @@ Key wires demonstrating investment vs. charitable split:
 - **Method**: Entity co-occurrence analysis across Gratitude America financial documents
 
 ### External Corroboration
-- WSJ reporter inquiry ([EFTA00009962](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009962.pdf)): Charities listed on Gratitude America tax forms said they never received listed donations
+- WSJ reporter inquiry (<a href="https://www.justice.gov/epstein/files/DataSet%208/EFTA00009962.pdf" target="_blank">EFTA00009962</a>): Charities listed on Gratitude America tax forms said they never received listed donations
 - NBC News: Independent verification that named charities denied receiving Gratitude America funds
 - Daily Beast: Cancer Research Wellness Institute founder Howard Straus said he'd never heard of Epstein or Gratitude America
 - Richard Kahn confirmed as Gratitude America president (Harvard Crimson, Daily Beast, tax filings)
@@ -193,11 +193,11 @@ Key wires demonstrating investment vs. charitable split:
 
 | Exhibit / Analysis | View in Workbook |
 |---|---|
-| Master Wire Ledger — Exhibit E (Gratitude America) | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2043824625#gid=2043824625) |
-| Entity P&L — Gratitude America | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1497389416#gid=1497389416) |
-| Shell Network — Gratitude America co-occurrence | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1040516313#gid=1040516313) |
-| Shell Trust Hierarchy | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1943952132#gid=1943952132) |
-| Methodology | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994) |
+| Master Wire Ledger — Exhibit E (Gratitude America) | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2043824625#gid=2043824625" target="_blank">📊 Open Tab</a> |
+| Entity P&L — Gratitude America | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1497389416#gid=1497389416" target="_blank">📊 Open Tab</a> |
+| Shell Network — Gratitude America co-occurrence | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1040516313#gid=1040516313" target="_blank">📊 Open Tab</a> |
+| Shell Trust Hierarchy | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1943952132#gid=1943952132" target="_blank">📊 Open Tab</a> |
+| Methodology | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994" target="_blank">📊 Open Tab</a> |
 
 ### How to Verify
-EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Wire data from [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) Exhibit E. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).
+EFTA document IDs from public DOJ release at <a href="https://efts.gov" target="_blank">efts.gov</a>. Wire data from <a href="https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf" target="_blank">EFTA00027019</a> Exhibit E. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).

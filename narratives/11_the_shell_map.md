@@ -6,7 +6,7 @@
 
 *This analysis maps every shell entity in the Epstein financial network by searching the full EFTA corpus for corporate entities (trusts, LLCs, LPs, and incorporated entities) that co-occur with "Epstein" in the same documents. It then measures document co-occurrence between shells to map their internal connections. See [COMPLIANCE.md](../COMPLIANCE.md) for professional standards framework.*
 
-> **📊 Interactive version**: Explore this shell network in the [interactive flow diagram](https://randallscott25-star.github.io/epstein-forensic-finance/visualizations/shell_network.html).
+> **📊 Interactive version**: Explore this shell network in the <a href="https://randallscott25-star.github.io/epstein-forensic-finance/visualizations/shell_network.html" target="_blank">interactive flow diagram</a>.
 
 ---
 
@@ -143,7 +143,7 @@ We mapped the rivers. The corpus shows there are also streams, creeks, and under
 
 ---
 
-*Source: DOJ EFTA Document Release — 11.4 million entity records across 1.48 million files. Shell entities identified by ORG-type entity search filtered for corporate suffixes (Trust, LLC, Inc, LP, Ltd) with Epstein co-occurrence. Document co-occurrence measured by shared file_id counts. Money mentions measured by MONEY-type entity co-occurrence. This analysis is published as part of the [Epstein Financial Forensics](https://github.com/randallscott25-star/epstein-forensic-finance) repository.*
+*Source: DOJ EFTA Document Release — 11.4 million entity records across 1.48 million files. Shell entities identified by ORG-type entity search filtered for corporate suffixes (Trust, LLC, Inc, LP, Ltd) with Epstein co-occurrence. Document co-occurrence measured by shared file_id counts. Money mentions measured by MONEY-type entity co-occurrence. This analysis is published as part of the <a href="https://github.com/randallscott25-star/epstein-forensic-finance" target="_blank">Epstein Financial Forensics</a> repository.*
 
 *For the girls.*
 
@@ -175,10 +175,10 @@ Corpus-wide shell entity co-occurrence and multi-bank infrastructure analysis.
 
 | Exhibit / Analysis | View in Workbook |
 |---|---|
-| Shell Network — Full 14-entity map | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1040516313#gid=1040516313) |
-| Shell Trust Hierarchy | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1943952132#gid=1943952132) |
-| Executive Summary | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1804001356#gid=1804001356) |
-| Methodology | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994) |
+| Shell Network — Full 14-entity map | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1040516313#gid=1040516313" target="_blank">📊 Open Tab</a> |
+| Shell Trust Hierarchy | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1943952132#gid=1943952132" target="_blank">📊 Open Tab</a> |
+| Executive Summary | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1804001356#gid=1804001356" target="_blank">📊 Open Tab</a> |
+| Methodology | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994" target="_blank">📊 Open Tab</a> |
 
 ### How to Verify
-EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Interactive visualization: [shell_network_v3.html](shell_network_v3.html). Full methodology in [METHODOLOGY.md](METHODOLOGY.md).
+EFTA document IDs from public DOJ release at <a href="https://efts.gov" target="_blank">efts.gov</a>. Interactive visualization: [shell_network_v3.html](shell_network_v3.html). Full methodology in [METHODOLOGY.md](METHODOLOGY.md).

@@ -90,7 +90,7 @@ The records exist. They sit somewhere in JPMorgan Chase's legacy systems. The qu
 
 **Methodology:** Entity co-occurrence analysis across 1,476,377 EFTA documents. Money-mention volumes calculated by automated extraction. Bear Stearns document characterization based on OCR-extracted letterhead and statement formatting. Financial Trust Company banking relationship inferred from co-occurrence patterns (66 shared files with Bear Stearns entities). All amounts are unverified automated extractions. See [Methodology](../METHODOLOGY.md) for full technical documentation.
 
-**Source data:** [Master Wire Ledger](../data/master_wire_ledger_phase25.json) · [Forensic Workbook](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?usp=sharing&ouid=103970896670138914877&rtpof=true&sd=true) · [Interactive Network](https://randallscott25-star.github.io/epstein-forensic-finance/visualizations/shell_network.html)
+**Source data:** [Master Wire Ledger](../data/master_wire_ledger_phase25.json) · <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?usp=sharing&ouid=103970896670138914877&rtpof=true&sd=true" target="_blank">Forensic Workbook</a> · <a href="https://randallscott25-star.github.io/epstein-forensic-finance/visualizations/shell_network.html" target="_blank">Interactive Network</a>
 
 **Related narratives:** [N1: Money Pipeline](01_money_pipeline.md) · [N5: Bear Stearns vs. Deutsche Bank](05_bear_stearns_gap.md) · [N11: The Shell Map](11_the_shell_map.md)
 
@@ -129,11 +129,11 @@ Top recurring amounts: $80M (37 mentions), $500M (14), $55M (15), $10M (21), $20
 
 | Exhibit / Analysis | View in Workbook |
 |---|---|
-| Master Wire Ledger — Zero Financial Trust Co wires | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2043824625#gid=2043824625) |
-| Shell Network — Bear Stearns × Financial Trust Co | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1040516313#gid=1040516313) |
-| Entity P&L — Financial Trust Company | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1497389416#gid=1497389416) |
-| SAR Comparison | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1121979938#gid=1121979938) |
-| Methodology | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994) |
+| Master Wire Ledger — Zero Financial Trust Co wires | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2043824625#gid=2043824625" target="_blank">📊 Open Tab</a> |
+| Shell Network — Bear Stearns × Financial Trust Co | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1040516313#gid=1040516313" target="_blank">📊 Open Tab</a> |
+| Entity P&L — Financial Trust Company | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1497389416#gid=1497389416" target="_blank">📊 Open Tab</a> |
+| SAR Comparison | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1121979938#gid=1121979938" target="_blank">📊 Open Tab</a> |
+| Methodology | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994" target="_blank">📊 Open Tab</a> |
 
 ### How to Verify
-EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Banking infrastructure data in [METHODOLOGY.md](METHODOLOGY.md).
+EFTA document IDs from public DOJ release at <a href="https://efts.gov" target="_blank">efts.gov</a>. Banking infrastructure data in [METHODOLOGY.md](METHODOLOGY.md).

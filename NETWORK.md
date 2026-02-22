@@ -4,7 +4,7 @@
 
 ---
 
-## [![Open Interactive Visualization](https://img.shields.io/badge/🔍_Explore_the_Network-Interactive_Visualization-d4a853?style=for-the-badge)](https://randallscott25-star.github.io/epstein-forensic-finance/visualizations/shell_network.html)
+## <a href="https://img.shields.io/badge/🔍_Explore_the_Network-Interactive_Visualization-d4a853?style=for-the-badge" target="_blank">![Open Interactive Visualization</a>](https://randallscott25-star.github.io/epstein-forensic-finance/visualizations/shell_network.html)
 
 > **Drag** nodes to rearrange · **Scroll** to zoom · **Click** any node for full detail panel · **Search** by name · **Filter** by connection type
 >
@@ -60,6 +60,6 @@
 
 ---
 
-*All amounts are automated extractions from DOJ EFTA documents. Appearance does not imply wrongdoing. See [Narrative 11: The Shell Map](narratives/11_the_shell_map.md) for the complete analysis. Supporting data: [Forensic Workbook (view-only)](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?usp=sharing&ouid=103970896670138914877&rtpof=true&sd=true) · [Master Wire Ledger](data/master_wire_ledger_phase25.json).*
+*All amounts are automated extractions from DOJ EFTA documents. Appearance does not imply wrongdoing. See [Narrative 11: The Shell Map](narratives/11_the_shell_map.md) for the complete analysis. Supporting data: <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?usp=sharing&ouid=103970896670138914877&rtpof=true&sd=true" target="_blank">Forensic Workbook (view-only)</a> · [Master Wire Ledger](data/master_wire_ledger_phase25.json).*
 
 *For the girls.*

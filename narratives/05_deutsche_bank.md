@@ -83,14 +83,14 @@ The 2020 DFS settlement confirms regulatory findings that Deutsche Bank's compli
 
 ---
 
-*Source: DOJ EFTA Document Release, Deutsche Bank-SDNY Production, Exhibits C, D, and E. All data extracted via automated pipeline. Supporting data: [Forensic Workbook (view-only)](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?usp=sharing&ouid=103970896670138914877&rtpof=true&sd=true). This finding appears in the [master wire ledger](../data/master_wire_ledger_phase25.json) published with this repository.*
+*Source: DOJ EFTA Document Release, Deutsche Bank-SDNY Production, Exhibits C, D, and E. All data extracted via automated pipeline. Supporting data: <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?usp=sharing&ouid=103970896670138914877&rtpof=true&sd=true" target="_blank">Forensic Workbook (view-only)</a>. This finding appears in the [master wire ledger](../data/master_wire_ledger_phase25.json) published with this repository.*
 
 ---
 
 ## Source Documents & Exhibits
 
 ### Primary Exhibits
-**Exhibits C, D, E** ([EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf)) plus expansion wires referencing Deutsche Bank.
+**Exhibits C, D, E** (<a href="https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf" target="_blank">EFTA00027019</a>) plus expansion wires referencing Deutsche Bank.
 
 74 wires verified involving Deutsche Bank accounts, across:
 
@@ -114,10 +114,10 @@ The 2020 DFS settlement confirms regulatory findings that Deutsche Bank's compli
 
 | Exhibit / Analysis | View in Workbook |
 |---|---|
-| Master Wire Ledger — Deutsche Bank wires | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2043824625#gid=2043824625) |
-| Shell Network — Deutsche Bank co-occurrence | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1040516313#gid=1040516313) |
-| SAR Comparison | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1121979938#gid=1121979938) |
-| Methodology | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994) |
+| Master Wire Ledger — Deutsche Bank wires | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2043824625#gid=2043824625" target="_blank">📊 Open Tab</a> |
+| Shell Network — Deutsche Bank co-occurrence | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1040516313#gid=1040516313" target="_blank">📊 Open Tab</a> |
+| SAR Comparison | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1121979938#gid=1121979938" target="_blank">📊 Open Tab</a> |
+| Methodology | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994" target="_blank">📊 Open Tab</a> |
 
 ### How to Verify
-EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Wire data from [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf). Full methodology in [METHODOLOGY.md](METHODOLOGY.md).
+EFTA document IDs from public DOJ release at <a href="https://efts.gov" target="_blank">efts.gov</a>. Wire data from <a href="https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf" target="_blank">EFTA00027019</a>. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).

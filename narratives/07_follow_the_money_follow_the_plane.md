@@ -20,7 +20,7 @@ This analysis does not establish causation. It establishes temporal proximity at
 
 **Financial transfers**: 185 verified wire transfers with dates, court exhibit references, and bates stamps, extracted from Deutsche Bank-SDNY production documents (Exhibits A through E). Date range: October 2013 – April 2019. Source: [master wire ledger](../data/master_wire_ledger_phase25.json).
 
-**Aircraft flights**: APIS passenger manifests for N212JE and N908JE recovered from the EFTA corpus (Datasets [8](https://www.justice.gov/epstein/doj-disclosures/data-set-8-files), [9](https://www.justice.gov/epstein/doj-disclosures/data-set-9-files), and [11](https://www.justice.gov/epstein/doj-disclosures/data-set-11-files)). These are CBP customs declaration records showing passenger name, date of birth, aircraft tail number, flight date, and ICAO airport codes for departure and arrival. 321 unique flight dates identified after filtering Epstein's DOB (01/20/1953) from OCR artifacts. Date range: 1990 – June 2019.
+**Aircraft flights**: APIS passenger manifests for N212JE and N908JE recovered from the EFTA corpus (Datasets <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-8-files" target="_blank">8</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-9-files" target="_blank">9</a>, and <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-11-files" target="_blank">11</a>). These are CBP customs declaration records showing passenger name, date of birth, aircraft tail number, flight date, and ICAO airport codes for departure and arrival. 321 unique flight dates identified after filtering Epstein's DOB (01/20/1953) from OCR artifacts. Date range: 1990 – June 2019.
 
 **Aircraft registration**: FAA registry confirms N908JE registered to JET ASSETS INC, 1712 Pioneer Ave, Cheyenne, WY. N212JE is the Gulfstream IV used for shorter routes.
 
@@ -118,14 +118,14 @@ However, a confounding variable exists: both wire transfers and flights may clus
 
 ---
 
-*Source: DOJ EFTA Document Release — Deutsche Bank-SDNY Production (Exhibits A–E), APIS/CBP Passenger Records (Datasets [8](https://www.justice.gov/epstein/doj-disclosures/data-set-8-files), [9](https://www.justice.gov/epstein/doj-disclosures/data-set-9-files), [11](https://www.justice.gov/epstein/doj-disclosures/data-set-11-files)), FAA Aircraft Registry. 2,411,188 dates extracted from 1,072,086 files via automated pipeline. Statistical calculation assumes uniform distribution of events across 2,017-day observation window (Oct 2013 – Apr 2019). This analysis appears in the [master wire ledger](../data/master_wire_ledger_phase25.json) and supporting data published with this repository.*
+*Source: DOJ EFTA Document Release — Deutsche Bank-SDNY Production (Exhibits A–E), APIS/CBP Passenger Records (Datasets <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-8-files" target="_blank">8</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-9-files" target="_blank">9</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-11-files" target="_blank">11</a>), FAA Aircraft Registry. 2,411,188 dates extracted from 1,072,086 files via automated pipeline. Statistical calculation assumes uniform distribution of events across 2,017-day observation window (Oct 2013 – Apr 2019). This analysis appears in the [master wire ledger](../data/master_wire_ledger_phase25.json) and supporting data published with this repository.*
 
 ---
 
 ## Source Documents & Exhibits
 
 ### Primary Exhibits
-**All Exhibits A–E** ([EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf)): 122 dated wires used for temporal correlation against flight log dates.
+**All Exhibits A–E** (<a href="https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf" target="_blank">EFTA00027019</a>): 122 dated wires used for temporal correlation against flight log dates.
 
 | Exhibit | Dated Wires | Value |
 |---------|-------------|-------|
@@ -150,10 +150,10 @@ Wire dates are from Deutsche Bank production only. Flight correlations may also 
 
 | Exhibit / Analysis | View in Workbook |
 |---|---|
-| Master Wire Ledger — All dated wires | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2043824625#gid=2043824625) |
-| Date Recovery — Phase 23 | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=339305346#gid=339305346) |
-| Executive Summary | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1804001356#gid=1804001356) |
-| Methodology | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994) |
+| Master Wire Ledger — All dated wires | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2043824625#gid=2043824625" target="_blank">📊 Open Tab</a> |
+| Date Recovery — Phase 23 | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=339305346#gid=339305346" target="_blank">📊 Open Tab</a> |
+| Executive Summary | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1804001356#gid=1804001356" target="_blank">📊 Open Tab</a> |
+| Methodology | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994" target="_blank">📊 Open Tab</a> |
 
 ### How to Verify
-EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Wire data from [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) Exhibits A–E. Flight logs from EFTA corpus. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).
+EFTA document IDs from public DOJ release at <a href="https://efts.gov" target="_blank">efts.gov</a>. Wire data from <a href="https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf" target="_blank">EFTA00027019</a> Exhibits A–E. Flight logs from EFTA corpus. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).

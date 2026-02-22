@@ -42,7 +42,7 @@ Entity co-occurrence was measured by counting the number of unique files in whic
 
 **Darren K. Indyke** appears in 196 financial documents, 204 victim-related documents, and 176 flight documents. He is the estate attorney who signed wire transfers on behalf of Epstein's trust entities. He appears on 5 verified wire transfers in the master ledger totaling $7.6 million. His name appears in victim-related documents because he is named in civil proceedings filed by Jane Doe plaintiffs against the Epstein estate — proceedings in which Southern Trust Company, which received $151.5 million in wire transfers (Exhibit A), is a named defendant.
 
-**Lesley Groff** appears in 134 financial documents and 153 victim-related documents. She was Epstein's executive assistant who managed scheduling. Documents in the EFTA corpus place her name alongside victim references including "Jane Doe" ([EFTA00446172](https://www.justice.gov/epstein/files/DataSet%209/EFTA00446172.pdf)), "Victim Payouts" ([EFTA00371439](https://www.justice.gov/epstein/files/DataSet%209/EFTA00371439.pdf)), and "the Federal Crime Victims Rights Act" ([EFTA00429909](https://www.justice.gov/epstein/files/DataSet%209/EFTA00429909.pdf)).
+**Lesley Groff** appears in 134 financial documents and 153 victim-related documents. She was Epstein's executive assistant who managed scheduling. Documents in the EFTA corpus place her name alongside victim references including "Jane Doe" (<a href="https://www.justice.gov/epstein/files/DataSet%209/EFTA00446172.pdf" target="_blank">EFTA00446172</a>), "Victim Payouts" (<a href="https://www.justice.gov/epstein/files/DataSet%209/EFTA00371439.pdf" target="_blank">EFTA00371439</a>), and "the Federal Crime Victims Rights Act" (<a href="https://www.justice.gov/epstein/files/DataSet%209/EFTA00429909.pdf" target="_blank">EFTA00429909</a>).
 
 **Sarah Kellen** appears in 132 victim-related documents. Victims identified her as a scheduler who arranged their visits. Her financial footprint is small (5 documents), consistent with an operational role rather than a financial one.
 
@@ -56,16 +56,16 @@ Selected examples from 50 co-occurrence documents identified:
 
 | Document | Type | Operational Names | Victim References |
 |----------|------|-------------------|-------------------|
-| [EFTA00023049](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023049.pdf) | document | Maxwell | Minor, Minor Victim-3 |
-| [EFTA00065479](https://www.justice.gov/epstein/files/DataSet%209/EFTA00065479.pdf) | email | Ghislaine Maxwell, Groff | Trafficking Victims Protection Act |
-| [EFTA00073465](https://www.justice.gov/epstein/files/DataSet%209/EFTA00073465.pdf) | court filing | Ghislaine Maxwell | Crime Victims' Rights Act, Victim Notification System |
-| [EFTA00173201](https://www.justice.gov/epstein/files/DataSet%209/EFTA00173201.pdf) | document | Leslie Groff, Ghislaine Maxwell | Jeffrey Epstein-Victim, Sex Trafficking |
-| [EFTA00371439](https://www.justice.gov/epstein/files/DataSet%209/EFTA00371439.pdf) | email | Groff | Victim Payouts |
-| [EFTA00429909](https://www.justice.gov/epstein/files/DataSet%209/EFTA00429909.pdf) | email | Lesley Groff | Federal Crime Victims Rights Act |
-| [EFTA00446172](https://www.justice.gov/epstein/files/DataSet%209/EFTA00446172.pdf) | email | Lesley Groff | Jane Doe |
-| [EFTA00067267](https://www.justice.gov/epstein/files/DataSet%209/EFTA00067267.pdf) | subpoena | Sarah Kellen | Victim |
-| [EFTA00261508](https://www.justice.gov/epstein/files/DataSet%209/EFTA00261508.pdf) | document | Maxwell | VICTIM |
-| [EFTA00313632](https://www.justice.gov/epstein/files/DataSet%209/EFTA00313632.pdf) | court filing | Ghislaine Maxwell | Plaintiff Jane Doe |
+| <a href="https://www.justice.gov/epstein/files/DataSet%208/EFTA00023049.pdf" target="_blank">EFTA00023049</a> | document | Maxwell | Minor, Minor Victim-3 |
+| <a href="https://www.justice.gov/epstein/files/DataSet%209/EFTA00065479.pdf" target="_blank">EFTA00065479</a> | email | Ghislaine Maxwell, Groff | Trafficking Victims Protection Act |
+| <a href="https://www.justice.gov/epstein/files/DataSet%209/EFTA00073465.pdf" target="_blank">EFTA00073465</a> | court filing | Ghislaine Maxwell | Crime Victims' Rights Act, Victim Notification System |
+| <a href="https://www.justice.gov/epstein/files/DataSet%209/EFTA00173201.pdf" target="_blank">EFTA00173201</a> | document | Leslie Groff, Ghislaine Maxwell | Jeffrey Epstein-Victim, Sex Trafficking |
+| <a href="https://www.justice.gov/epstein/files/DataSet%209/EFTA00371439.pdf" target="_blank">EFTA00371439</a> | email | Groff | Victim Payouts |
+| <a href="https://www.justice.gov/epstein/files/DataSet%209/EFTA00429909.pdf" target="_blank">EFTA00429909</a> | email | Lesley Groff | Federal Crime Victims Rights Act |
+| <a href="https://www.justice.gov/epstein/files/DataSet%209/EFTA00446172.pdf" target="_blank">EFTA00446172</a> | email | Lesley Groff | Jane Doe |
+| <a href="https://www.justice.gov/epstein/files/DataSet%209/EFTA00067267.pdf" target="_blank">EFTA00067267</a> | subpoena | Sarah Kellen | Victim |
+| <a href="https://www.justice.gov/epstein/files/DataSet%209/EFTA00261508.pdf" target="_blank">EFTA00261508</a> | document | Maxwell | VICTIM |
+| <a href="https://www.justice.gov/epstein/files/DataSet%209/EFTA00313632.pdf" target="_blank">EFTA00313632</a> | court filing | Ghislaine Maxwell | Plaintiff Jane Doe |
 
 These documents span the investigative lifecycle: FBI emails referencing "Crimes Against Children/Human Trafficking" alongside Maxwell's name, court filings where Jane Doe plaintiffs name operational staff, and victim impact statements that reference the same individuals who appear on financial records.
 
@@ -108,7 +108,7 @@ This is not a finding about guilt. It is a finding about structure. The financia
 
 ---
 
-*Source: DOJ EFTA Document Release — 11.4 million entity records across 1.48 million files. Entity co-occurrence measured by unique file count per document category. Wire transfer data from Deutsche Bank-SDNY Production (Exhibits A–E), 185 verified wires. Document type classifications from automated pipeline with manual validation. Supporting data: [Forensic Workbook (view-only)](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?usp=sharing&ouid=103970896670138914877&rtpof=true&sd=true). This analysis is published as part of the [Epstein Financial Forensics](https://github.com/randallscott25-star/epstein-forensic-finance) repository.*
+*Source: DOJ EFTA Document Release — 11.4 million entity records across 1.48 million files. Entity co-occurrence measured by unique file count per document category. Wire transfer data from Deutsche Bank-SDNY Production (Exhibits A–E), 185 verified wires. Document type classifications from automated pipeline with manual validation. Supporting data: <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?usp=sharing&ouid=103970896670138914877&rtpof=true&sd=true" target="_blank">Forensic Workbook (view-only)</a>. This analysis is published as part of the <a href="https://github.com/randallscott25-star/epstein-forensic-finance" target="_blank">Epstein Financial Forensics</a> repository.*
 
 *For the girls.*
 
@@ -131,10 +131,10 @@ This narrative draws from the full EFTA corpus, not limited to Deutsche Bank wir
 
 | Exhibit / Analysis | View in Workbook |
 |---|---|
-| Shell Network — Staff co-occurrence | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1040516313#gid=1040516313) |
-| Shell Trust Hierarchy | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1943952132#gid=1943952132) |
-| Executive Summary | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1804001356#gid=1804001356) |
-| Methodology | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994) |
+| Shell Network — Staff co-occurrence | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1040516313#gid=1040516313" target="_blank">📊 Open Tab</a> |
+| Shell Trust Hierarchy | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1943952132#gid=1943952132" target="_blank">📊 Open Tab</a> |
+| Executive Summary | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1804001356#gid=1804001356" target="_blank">📊 Open Tab</a> |
+| Methodology | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994" target="_blank">📊 Open Tab</a> |
 
 ### How to Verify
-EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Full methodology in [METHODOLOGY.md](METHODOLOGY.md).
+EFTA document IDs from public DOJ release at <a href="https://efts.gov" target="_blank">efts.gov</a>. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).

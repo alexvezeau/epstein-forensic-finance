@@ -109,7 +109,7 @@ Their presence on Southern Trust Company records places them inside the Epstein 
 
 **Methodology:** Entity co-occurrence analysis using Leon Black variant names (Leon Black, Leon & Debra, Black Family Partners, Elysium Management, Narrow Holdings, BV70) against shell entity names and investment fund names across financial documents. Wire amounts from verified Deutsche Bank production (Exhibits A–E). All co-occurrence counts are file-level (distinct file_id). See [Methodology](../METHODOLOGY.md).
 
-**Source data:** [Master Wire Ledger](../data/master_wire_ledger_phase25.json) · [Forensic Workbook](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?usp=sharing&ouid=103970896670138914877&rtpof=true&sd=true) · [Interactive Network](https://randallscott25-star.github.io/epstein-forensic-finance/visualizations/shell_network.html)
+**Source data:** [Master Wire Ledger](../data/master_wire_ledger_phase25.json) · <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?usp=sharing&ouid=103970896670138914877&rtpof=true&sd=true" target="_blank">Forensic Workbook</a> · <a href="https://randallscott25-star.github.io/epstein-forensic-finance/visualizations/shell_network.html" target="_blank">Interactive Network</a>
 
 **Related narratives:** [N1: Money Pipeline](01_money_pipeline.md) · [N3: Outflow Recipients](03_outflow_recipients.md) · [N11: The Shell Map](11_the_shell_map.md) · [N15: Gratitude America](15_gratitude_america.md)
 
@@ -122,7 +122,7 @@ Their presence on Southern Trust Company records places them inside the Epstein 
 ## Source Documents & Exhibits
 
 ### Primary Exhibit
-**Exhibit A** ([EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf)): Incoming wires to Southern Trust Company Inc.
+**Exhibit A** (<a href="https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf" target="_blank">EFTA00027019</a>): Incoming wires to Southern Trust Company Inc.
 
 ### Wire Ledger Cross-Reference
 34 wires verified involving Black entities, $183,096,478 total.
@@ -168,12 +168,12 @@ Apollo Management (13 files), Elysium Management LLC (9), Coatue Enterprises (6)
 
 | Exhibit / Analysis | View in Workbook |
 |---|---|
-| Master Wire Ledger — Exhibit A (Black → Southern Trust) | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2043824625#gid=2043824625) |
-| Entity P&L — Leon Black entities | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1497389416#gid=1497389416) |
-| Shell Network — Black × shell co-occurrence | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1040516313#gid=1040516313) |
-| Money Flow Patterns — Black entity flows | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2075093083#gid=2075093083) |
-| Shell Trust Hierarchy | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1943952132#gid=1943952132) |
-| Methodology | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994) |
+| Master Wire Ledger — Exhibit A (Black → Southern Trust) | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2043824625#gid=2043824625" target="_blank">📊 Open Tab</a> |
+| Entity P&L — Leon Black entities | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1497389416#gid=1497389416" target="_blank">📊 Open Tab</a> |
+| Shell Network — Black × shell co-occurrence | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1040516313#gid=1040516313" target="_blank">📊 Open Tab</a> |
+| Money Flow Patterns — Black entity flows | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2075093083#gid=2075093083" target="_blank">📊 Open Tab</a> |
+| Shell Trust Hierarchy | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1943952132#gid=1943952132" target="_blank">📊 Open Tab</a> |
+| Methodology | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994" target="_blank">📊 Open Tab</a> |
 
 ### How to Verify
-EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Wire data from [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) Exhibit A. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).
+EFTA document IDs from public DOJ release at <a href="https://efts.gov" target="_blank">efts.gov</a>. Wire data from <a href="https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf" target="_blank">EFTA00027019</a> Exhibit A. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).

@@ -31,7 +31,7 @@ All amounts are **(Unverified)** automated extractions. These are not audit find
 
 | Visualization | Description |
 |--------------|-------------|
-| [Shell Network — Full Architecture](https://randallscott25-star.github.io/epstein-forensic-finance/visualizations/shell_network.html) | Interactive map of all 14 shell entities and 12 banking institutions. Click nodes for detail. Filter by co-occurrence, bank relationships, or wire ledger. |
+| <a href="https://randallscott25-star.github.io/epstein-forensic-finance/visualizations/shell_network.html" target="_blank">Shell Network — Full Architecture</a> | Interactive map of all 14 shell entities and 12 banking institutions. Click nodes for detail. Filter by co-occurrence, bank relationships, or wire ledger. |
 
 ---
 
@@ -46,7 +46,7 @@ Each narrative follows the same structure:
 
 The first six narratives trace wire transfer patterns through Epstein's shell network. Narratives 7–10 expand the aperture: flight correlations, entity co-occurrence across 11.4 million records, full-corpus person scans, and forensic accounting tests. The methodology scales with the questions.
 
-The source workbook containing all exhibits referenced in these narratives is available here: **[Forensic Workbook (Google Sheets)](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?usp=sharing&ouid=103970896670138914877&rtpof=true&sd=true)** (view-only).
+The source workbook containing all exhibits referenced in these narratives is available here: **<a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?usp=sharing&ouid=103970896670138914877&rtpof=true&sd=true" target="_blank">Forensic Workbook (Google Sheets)</a>** (view-only).
 
 I report what the data shows. Interpretation of intent, legality, or business purpose is left to qualified investigators, regulators, and readers.
 

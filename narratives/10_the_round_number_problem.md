@@ -103,7 +103,7 @@ The round-number problem is not that the transfers are fake. It is that they are
 
 ---
 
-*Source: DOJ EFTA Document Release — Deutsche Bank-SDNY Production (Exhibits A–E), 185 verified wire transfers totaling $557,372,954. Benford's Law analysis performed on first-digit and first-two-digit distributions. Round-number classification by modular arithmetic at million, hundred-thousand, ten-thousand, and thousand levels. Supporting data: [Forensic Workbook (view-only)](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?usp=sharing&ouid=103970896670138914877&rtpof=true&sd=true). This analysis is published as part of the [Epstein Financial Forensics](https://github.com/randallscott25-star/epstein-forensic-finance) repository.*
+*Source: DOJ EFTA Document Release — Deutsche Bank-SDNY Production (Exhibits A–E), 185 verified wire transfers totaling $557,372,954. Benford's Law analysis performed on first-digit and first-two-digit distributions. Round-number classification by modular arithmetic at million, hundred-thousand, ten-thousand, and thousand levels. Supporting data: <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?usp=sharing&ouid=103970896670138914877&rtpof=true&sd=true" target="_blank">Forensic Workbook (view-only)</a>. This analysis is published as part of the <a href="https://github.com/randallscott25-star/epstein-forensic-finance" target="_blank">Epstein Financial Forensics</a> repository.*
 
 *For the girls.*
 
@@ -112,7 +112,7 @@ The round-number problem is not that the transfers are fake. It is that they are
 ## Source Documents & Exhibits
 
 ### Primary Exhibits
-**Exhibits A–E** ([EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf)): 382 verified wire transfer amounts tested against Benford's Law.
+**Exhibits A–E** (<a href="https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf" target="_blank">EFTA00027019</a>): 382 verified wire transfer amounts tested against Benford's Law.
 
 ### Corpus Statistics Source
 **Method**: Benford's Law first-digit analysis on 382 wire amounts from the Master Wire Ledger.
@@ -126,10 +126,10 @@ Benford's test applied to Deutsche Bank wire production only. The test could be 
 
 | Exhibit / Analysis | View in Workbook |
 |---|---|
-| Master Wire Ledger — Full 382 wires | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2043824625#gid=2043824625) |
-| SAR Comparison | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1121979938#gid=1121979938) |
-| Above-Cap Verified | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2071460294#gid=2071460294) |
-| Methodology | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994) |
+| Master Wire Ledger — Full 382 wires | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2043824625#gid=2043824625" target="_blank">📊 Open Tab</a> |
+| SAR Comparison | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1121979938#gid=1121979938" target="_blank">📊 Open Tab</a> |
+| Above-Cap Verified | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2071460294#gid=2071460294" target="_blank">📊 Open Tab</a> |
+| Methodology | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994" target="_blank">📊 Open Tab</a> |
 
 ### How to Verify
-EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Wire data from [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) Exhibits A–E. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).
+EFTA document IDs from public DOJ release at <a href="https://efts.gov" target="_blank">efts.gov</a>. Wire data from <a href="https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf" target="_blank">EFTA00027019</a> Exhibits A–E. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).

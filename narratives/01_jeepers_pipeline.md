@@ -67,14 +67,14 @@ Several bates stamps show OCR artifacts in entity names: "Jee ers Inc." appears 
 
 ---
 
-*Source: DOJ EFTA Document Release, Deutsche Bank-SDNY Production, Exhibit C. All data extracted via automated pipeline; no manual adjustments to amounts or dates. 24/24 entries dated (100%). Supporting data: [Forensic Workbook (view-only)](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?usp=sharing&ouid=103970896670138914877&rtpof=true&sd=true). This finding appears in the [master wire ledger](../data/master_wire_ledger_phase25.json) published with this repository.*
+*Source: DOJ EFTA Document Release, Deutsche Bank-SDNY Production, Exhibit C. All data extracted via automated pipeline; no manual adjustments to amounts or dates. 24/24 entries dated (100%). Supporting data: <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?usp=sharing&ouid=103970896670138914877&rtpof=true&sd=true" target="_blank">Forensic Workbook (view-only)</a>. This finding appears in the [master wire ledger](../data/master_wire_ledger_phase25.json) published with this repository.*
 
 ---
 
 ## Source Documents & Exhibits
 
 ### Primary Exhibit
-**Exhibit C** ([EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf)): Jeepers Inc. brokerage account activity at Deutsche Bank, 2013–2019.
+**Exhibit C** (<a href="https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf" target="_blank">EFTA00027019</a>): Jeepers Inc. brokerage account activity at Deutsche Bank, 2013–2019.
 
 ### Wire Ledger Cross-Reference
 24 wires verified, $57,876,640 total. All from Exhibit C.
@@ -97,10 +97,10 @@ Wire data sourced exclusively from Deutsche Bank production (Exhibits A–E). Je
 
 | Exhibit / Analysis | View in Workbook |
 |---|---|
-| Master Wire Ledger — Exhibit C (Jeepers wires) | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2043824625#gid=2043824625) |
-| Shell Network — Jeepers co-occurrence | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1040516313#gid=1040516313) |
-| Entity P&L — Jeepers Inc. | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1497389416#gid=1497389416) |
-| Methodology | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994) |
+| Master Wire Ledger — Exhibit C (Jeepers wires) | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2043824625#gid=2043824625" target="_blank">📊 Open Tab</a> |
+| Shell Network — Jeepers co-occurrence | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1040516313#gid=1040516313" target="_blank">📊 Open Tab</a> |
+| Entity P&L — Jeepers Inc. | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1497389416#gid=1497389416" target="_blank">📊 Open Tab</a> |
+| Methodology | <a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994" target="_blank">📊 Open Tab</a> |
 
 ### How to Verify
-All EFTA document IDs are from the public DOJ release under the Epstein Files Transparency Act at [efts.gov](https://efts.gov). Wire data from [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) Exhibit C. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).
+All EFTA document IDs are from the public DOJ release under the Epstein Files Transparency Act at <a href="https://efts.gov" target="_blank">efts.gov</a>. Wire data from <a href="https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf" target="_blank">EFTA00027019</a> Exhibit C. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).
