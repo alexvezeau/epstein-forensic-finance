@@ -2,7 +2,7 @@
 
 **Automated forensic financial reconstruction from 1.48 million DOJ EFTA documents + 503K cataloged media items**
 
-![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frandallscott25-star%2Fepstein-forensic-finance&count_bg=%23555555&title_bg=%23333333&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=true)
+![Visitors](https://komarev.com/ghpvc/?username=randallscott25-star&label=visitors&color=555555&style=flat)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ---
