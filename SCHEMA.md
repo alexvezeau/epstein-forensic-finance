@@ -23,7 +23,7 @@ EPSTEIN FORENSIC DATABASE (6.9GB)
 │   │   └── Links files → date references
 │   │
 │   └── media_evidence ────────────── 503,154 images + 874 videos
-│       ├── DS10 evidence catalog
+│       ├── [DS10](https://www.justice.gov/epstein/doj-disclosures/data-set-10-files) evidence catalog
 │       ├── image classification
 │       └── metadata extraction
 │

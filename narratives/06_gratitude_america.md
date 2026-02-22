@@ -93,7 +93,7 @@ The largest single destination for Gratitude America's outflows was "Gratitude A
 ## Source Documents & Exhibits
 
 ### Primary Exhibit
-**Exhibit E** (EFTA00027019): Gratitude America MMDA disbursements plus expansion wires.
+**Exhibit E** ([EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf)): Gratitude America MMDA disbursements plus expansion wires.
 
 ### Wire Ledger Cross-Reference
 20 wires total (12 from Exhibit E, 8 expansion), $13,080,518 combined.
@@ -129,4 +129,4 @@ The largest single destination for Gratitude America's outflows was "Gratitude A
 | Methodology | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994) |
 
 ### How to Verify
-EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Wire data from EFTA00027019 Exhibit E. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).
+EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Wire data from [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) Exhibit E. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).

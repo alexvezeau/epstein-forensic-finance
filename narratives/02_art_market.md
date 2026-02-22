@@ -82,7 +82,7 @@ The outflow amounts ($5M, $8M, $9M, $10M) are round numbers — consistent with 
 ## Source Documents & Exhibits
 
 ### Primary Exhibit
-**Exhibit D** (EFTA00027019): Haze Trust activity at Deutsche Bank, including art auction proceeds.
+**Exhibit D** ([EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf)): Haze Trust activity at Deutsche Bank, including art auction proceeds.
 
 ### Wire Ledger Cross-Reference
 11 wires verified, $68,760,686 total. All from Exhibit D.
@@ -113,4 +113,4 @@ Haze Trust also co-occurs with Financial Trust Company (19 shared files), which 
 | Methodology | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994) |
 
 ### How to Verify
-EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Wire data from EFTA00027019 Exhibit D. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).
+EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Wire data from [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) Exhibit D. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).

@@ -154,7 +154,7 @@ The data is in the EFTA documents. The 990s are public. The comparison is straig
 ## Source Documents & Exhibits
 
 ### Primary Exhibit
-**Exhibit E** (EFTA00027019): Gratitude America MMDA disbursements.
+**Exhibit E** ([EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf)): Gratitude America MMDA disbursements.
 
 ### Wire Ledger Cross-Reference
 12 Exhibit E wires, $6,253,493 total (see N6 appendix for full wire table — identical Exhibit E source).
@@ -182,7 +182,7 @@ Key wires demonstrating investment vs. charitable split:
 - **Method**: Entity co-occurrence analysis across Gratitude America financial documents
 
 ### External Corroboration
-- WSJ reporter inquiry (EFTA00009962): Charities listed on Gratitude America tax forms said they never received listed donations
+- WSJ reporter inquiry ([EFTA00009962](https://www.justice.gov/epstein/files/DataSet%208/EFTA00009962.pdf)): Charities listed on Gratitude America tax forms said they never received listed donations
 - NBC News: Independent verification that named charities denied receiving Gratitude America funds
 - Daily Beast: Cancer Research Wellness Institute founder Howard Straus said he'd never heard of Epstein or Gratitude America
 - Richard Kahn confirmed as Gratitude America president (Harvard Crimson, Daily Beast, tax filings)
@@ -200,4 +200,4 @@ Key wires demonstrating investment vs. charitable split:
 | Methodology | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994) |
 
 ### How to Verify
-EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Wire data from EFTA00027019 Exhibit E. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).
+EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Wire data from [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) Exhibit E. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).

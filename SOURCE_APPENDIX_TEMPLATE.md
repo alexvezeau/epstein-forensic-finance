@@ -8,7 +8,7 @@ Every data narrative published in this repository must include a **Source Docume
 
 ### 1. Primary Exhibit Mapping
 
-Identify which exhibits from EFTA00027019 (Deutsche Bank Wire Production) feed the narrative:
+Identify which exhibits from [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) (Deutsche Bank Wire Production) feed the narrative:
 
 | Exhibit | Description | Wires in Narrative | Value |
 |---------|-------------|-------------------|-------|
@@ -41,7 +41,7 @@ For claims involving specific dollar amounts from verified wire transfers:
 
 > **Wire**: [Entity From] → [Entity To], $[Amount], [Date]
 > **Ledger row**: Master Wire Ledger, Exhibit [X], Row [N]
-> **Verification**: Compare against EFTA00027019 Exhibit [X] at efts.gov
+> **Verification**: Compare against [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) Exhibit [X] at efts.gov
 
 ### 5. External Corroboration (where applicable)
 
@@ -95,7 +95,7 @@ Standard footer for every narrative:
 ---
 
 ### How to Verify
-All EFTA document IDs cited above are drawn from the public DOJ release under the Epstein Files Transparency Act. Documents can be accessed at [efts.gov](https://efts.gov) by searching the document ID (e.g., EFTA00027019). Wire transfer data is from Exhibit attachments to EFTA00027019 (Deutsche Bank production, SDNY). Full extraction methodology is documented in [METHODOLOGY.md](METHODOLOGY.md).
+All EFTA document IDs cited above are drawn from the public DOJ release under the Epstein Files Transparency Act. Documents can be accessed at [efts.gov](https://efts.gov) by searching the document ID (e.g., [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf)). Wire transfer data is from Exhibit attachments to [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) (Deutsche Bank production, SDNY). Full extraction methodology is documented in [METHODOLOGY.md](METHODOLOGY.md).
 
 ---
 

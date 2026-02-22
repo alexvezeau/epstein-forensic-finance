@@ -74,7 +74,7 @@ Several bates stamps show OCR artifacts in entity names: "Jee ers Inc." appears 
 ## Source Documents & Exhibits
 
 ### Primary Exhibit
-**Exhibit C** (EFTA00027019): Jeepers Inc. brokerage account activity at Deutsche Bank, 2013–2019.
+**Exhibit C** ([EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf)): Jeepers Inc. brokerage account activity at Deutsche Bank, 2013–2019.
 
 ### Wire Ledger Cross-Reference
 24 wires verified, $57,876,640 total. All from Exhibit C.
@@ -103,4 +103,4 @@ Wire data sourced exclusively from Deutsche Bank production (Exhibits A–E). Je
 | Methodology | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994) |
 
 ### How to Verify
-All EFTA document IDs are from the public DOJ release under the Epstein Files Transparency Act at [efts.gov](https://efts.gov). Wire data from EFTA00027019 Exhibit C. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).
+All EFTA document IDs are from the public DOJ release under the Epstein Files Transparency Act at [efts.gov](https://efts.gov). Wire data from [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) Exhibit C. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).

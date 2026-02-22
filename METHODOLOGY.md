@@ -17,7 +17,7 @@ I wrote all extraction code, designed the database schema, and performed the for
 | Metric | Value |
 |--------|------:|
 | Total files indexed | 1,476,377 + 503,154 media |
-| Datasets | 19 (DS1-12 + DS98-104) |
+| Datasets | 19 ([DS1](https://www.justice.gov/epstein/doj-disclosures/data-set-1-files)-12 + DS98-104) |
 | Extracted text records | 1.48M+ |
 | Entity extraction (spaCy NLP) | 11,438,106 entities |
 | Unique persons identified | 734,122 |
@@ -86,7 +86,7 @@ All amounts are (Unverified) automated extractions.
 | 15F | Redaction Recovery | +$368,170 | $1,429,990,851 | 76.1% | Proximity scan |
 | 16.1 | Transaction-Line Parser | +$78,547,827 | $1,508,538,678 | 80.3% | Format validation |
 | 16.2 | Round-Wire Extractor | +$4,975,350 | $1,513,514,028 | 80.6% | Round-amount + context |
-| 17 | Trust Transfers + DS8 | +$12,720,752 | $1,526,234,780 | 81.3% | Table structure |
+| 17 | Trust Transfers + [DS8](https://www.justice.gov/epstein/doj-disclosures/data-set-8-files) | +$12,720,752 | $1,526,234,780 | 81.3% | Table structure |
 | 18 | Full Category Sweep | +$3,854,313 | $1,530,089,093 | 81.5% | Category filter |
 | **19** | **Audited PROVEN Fix** | **+$59,524,629** | $1,589,613,722 | 84.6% | **BUG FIX** |
 | 20A | Verified Wires (amount-new) | +$53,093,926 | $1,642,707,648 | 87.5% | Court-exhibit verified |

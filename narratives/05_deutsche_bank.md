@@ -90,7 +90,7 @@ The 2020 DFS settlement confirms regulatory findings that Deutsche Bank's compli
 ## Source Documents & Exhibits
 
 ### Primary Exhibits
-**Exhibits C, D, E** (EFTA00027019) plus expansion wires referencing Deutsche Bank.
+**Exhibits C, D, E** ([EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf)) plus expansion wires referencing Deutsche Bank.
 
 74 wires verified involving Deutsche Bank accounts, across:
 
@@ -120,4 +120,4 @@ The 2020 DFS settlement confirms regulatory findings that Deutsche Bank's compli
 | Methodology | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994) |
 
 ### How to Verify
-EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Wire data from EFTA00027019. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).
+EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Wire data from [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf). Full methodology in [METHODOLOGY.md](METHODOLOGY.md).

@@ -112,7 +112,7 @@ The round-number problem is not that the transfers are fake. It is that they are
 ## Source Documents & Exhibits
 
 ### Primary Exhibits
-**Exhibits A–E** (EFTA00027019): 382 verified wire transfer amounts tested against Benford's Law.
+**Exhibits A–E** ([EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf)): 382 verified wire transfer amounts tested against Benford's Law.
 
 ### Corpus Statistics Source
 **Method**: Benford's Law first-digit analysis on 382 wire amounts from the Master Wire Ledger.
@@ -132,4 +132,4 @@ Benford's test applied to Deutsche Bank wire production only. The test could be 
 | Methodology | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994) |
 
 ### How to Verify
-EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Wire data from EFTA00027019 Exhibits A–E. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).
+EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Wire data from [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) Exhibits A–E. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).

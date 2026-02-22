@@ -73,7 +73,7 @@ I did not automatically remove these matches. Each was reviewed in the context o
 ## Source Documents & Exhibits
 
 ### Primary Exhibits
-**All Exhibits A–E** (EFTA00027019) plus expansion wires.
+**All Exhibits A–E** ([EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf)) plus expansion wires.
 
 This narrative synthesizes the full 382-wire ledger to demonstrate inter-entity fund routing patterns.
 
@@ -104,4 +104,4 @@ The 4-tier model (intake → holding → distribution → personal) describes pa
 | Methodology | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994) |
 
 ### How to Verify
-EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Wire data from EFTA00027019 Exhibits A–E. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).
+EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Wire data from [EFTA00027019](https://www.justice.gov/epstein/files/DataSet%208/EFTA00027019.pdf) Exhibits A–E. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).

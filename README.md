@@ -49,7 +49,7 @@ To my knowledge, this represents the first systematic attempt to reconstruct the
 | Metric | This Project | Largest Narrative Repo | Largest Search Platform | Others |
 |--------|:------------:|:----------------------:|:----------------------:|:------:|
 | **Total files indexed** | **1,476,377** + 503K media | 1,380,937 | 1,120,000 | < 20,000 |
-| **Datasets covered** | **19** (DS1-12 + DS98-104) | 12 | 12 | 1-3 |
+| **Datasets covered** | **19** ([DS1](https://www.justice.gov/epstein/doj-disclosures/data-set-1-files)-12 + DS98-104) | 12 | 12 | 1-3 |
 | **Extracted text records** | **1.48M+** | 993,406 pages | — | — |
 | **Entity extraction (NLP)** | **11.4M entities** | ~4,000 curated | 1,589 manual | < 500 |
 | **Unique persons identified** | **734,122** | 1,536 registry | 1,589 | — |
@@ -63,7 +63,7 @@ To my knowledge, this represents the first systematic attempt to reconstruct the
 | **Multi-phase dedup pipeline** | ✅ 3-stage evolution | — | — | — |
 | **Shell hierarchy mapping** | ✅ 4-tier | — | — | — |
 
-> **Note:** The largest narrative repo's 1,380,937 figure counts individual *pages* as records; their unique PDF file count is ~519,548. My 1,476,377 are unique files each with a distinct DOJ URL or registered serial, plus 503,154 separately cataloged media items from DS10 evidence photos and videos. Multiple projects in this space are doing valuable, complementary work — narrative forensic reporting, searchable archives, community preservation. This project's lane is systematic financial reconstruction at scale.
+> **Note:** The largest narrative repo's 1,380,937 figure counts individual *pages* as records; their unique PDF file count is ~519,548. My 1,476,377 are unique files each with a distinct DOJ URL or registered serial, plus 503,154 separately cataloged media items from [DS10](https://www.justice.gov/epstein/doj-disclosures/data-set-10-files) evidence photos and videos. Multiple projects in this space are doing valuable, complementary work — narrative forensic reporting, searchable archives, community preservation. This project's lane is systematic financial reconstruction at scale.
 
 ---
 
@@ -179,7 +179,7 @@ This is not a search index. This is a relational forensic database.
 **Corpus Infrastructure**
 - `files` — 1,476,377 file records with metadata, classification, dates
 - `dates_found` — Temporal mapping across entire corpus
-- `media_evidence` — DS10 image/video catalog (503K images + 874 videos)
+- `media_evidence` — [DS10](https://www.justice.gov/epstein/doj-disclosures/data-set-10-files) image/video catalog (503K images + 874 videos)
 
 **External Cross-Reference**
 - `faa_master`, `faa_engine`, `faa_acftref` — FAA aircraft registry for flight tracking
@@ -407,13 +407,13 @@ The underlying DOJ documents are U.S. government publications in the public doma
 | Date | Milestone |
 |------|-----------|
 | Feb 7, 2026 | Project started — DOJ scraper built, first dataset indexed |
-| Feb 8 | DS11 (76,969 financial ledgers) fully scraped |
+| Feb 8 | [DS11](https://www.justice.gov/epstein/doj-disclosures/data-set-11-files) (76,969 financial ledgers) fully scraped |
 | Feb 10 | 633,842 files indexed — published to GitHub and Archive.org |
 | Feb 12 | Phase 3 text extraction complete (513K files) |
 | Feb 14 | Entity extraction (3B) launched — 565K files queued |
-| Feb 15 | Corpus expanded to 1.48M files + 503K media with DS10 + community gap-fill |
+| Feb 15 | Corpus expanded to 1.48M files + 503K media with [DS10](https://www.justice.gov/epstein/doj-disclosures/data-set-10-files) + community gap-fill |
 | Feb 16 | Phase 5 financial analysis chain operational |
-| Feb 18 | 19 datasets online (DS1-12 + DS98-DS104) |
+| Feb 18 | 19 datasets online ([DS1](https://www.justice.gov/epstein/doj-disclosures/data-set-1-files)-12 + DS98-DS104) |
 | Feb 20 | Fund flows audit v6.2: $1.43B in P+S transactions, 39% SAR coverage |
 | Feb 21 | Wire extraction pipeline (Phases 14-24): $1.964B, 104.6% SAR coverage |
 | Feb 21 | Forensic workbook v6.1 published (11 tabs, 382-wire master ledger) |

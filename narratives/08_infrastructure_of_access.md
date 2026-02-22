@@ -42,7 +42,7 @@ Entity co-occurrence was measured by counting the number of unique files in whic
 
 **Darren K. Indyke** appears in 196 financial documents, 204 victim-related documents, and 176 flight documents. He is the estate attorney who signed wire transfers on behalf of Epstein's trust entities. He appears on 5 verified wire transfers in the master ledger totaling $7.6 million. His name appears in victim-related documents because he is named in civil proceedings filed by Jane Doe plaintiffs against the Epstein estate — proceedings in which Southern Trust Company, which received $151.5 million in wire transfers (Exhibit A), is a named defendant.
 
-**Lesley Groff** appears in 134 financial documents and 153 victim-related documents. She was Epstein's executive assistant who managed scheduling. Documents in the EFTA corpus place her name alongside victim references including "Jane Doe" (EFTA00446172), "Victim Payouts" (EFTA00371439), and "the Federal Crime Victims Rights Act" (EFTA00429909).
+**Lesley Groff** appears in 134 financial documents and 153 victim-related documents. She was Epstein's executive assistant who managed scheduling. Documents in the EFTA corpus place her name alongside victim references including "Jane Doe" ([EFTA00446172](https://www.justice.gov/epstein/files/DataSet%209/EFTA00446172.pdf)), "Victim Payouts" ([EFTA00371439](https://www.justice.gov/epstein/files/DataSet%209/EFTA00371439.pdf)), and "the Federal Crime Victims Rights Act" ([EFTA00429909](https://www.justice.gov/epstein/files/DataSet%209/EFTA00429909.pdf)).
 
 **Sarah Kellen** appears in 132 victim-related documents. Victims identified her as a scheduler who arranged their visits. Her financial footprint is small (5 documents), consistent with an operational role rather than a financial one.
 
@@ -56,16 +56,16 @@ Selected examples from 50 co-occurrence documents identified:
 
 | Document | Type | Operational Names | Victim References |
 |----------|------|-------------------|-------------------|
-| EFTA00023049 | document | Maxwell | Minor, Minor Victim-3 |
-| EFTA00065479 | email | Ghislaine Maxwell, Groff | Trafficking Victims Protection Act |
-| EFTA00073465 | court filing | Ghislaine Maxwell | Crime Victims' Rights Act, Victim Notification System |
-| EFTA00173201 | document | Leslie Groff, Ghislaine Maxwell | Jeffrey Epstein-Victim, Sex Trafficking |
-| EFTA00371439 | email | Groff | Victim Payouts |
-| EFTA00429909 | email | Lesley Groff | Federal Crime Victims Rights Act |
-| EFTA00446172 | email | Lesley Groff | Jane Doe |
-| EFTA00067267 | subpoena | Sarah Kellen | Victim |
-| EFTA00261508 | document | Maxwell | VICTIM |
-| EFTA00313632 | court filing | Ghislaine Maxwell | Plaintiff Jane Doe |
+| [EFTA00023049](https://www.justice.gov/epstein/files/DataSet%208/EFTA00023049.pdf) | document | Maxwell | Minor, Minor Victim-3 |
+| [EFTA00065479](https://www.justice.gov/epstein/files/DataSet%209/EFTA00065479.pdf) | email | Ghislaine Maxwell, Groff | Trafficking Victims Protection Act |
+| [EFTA00073465](https://www.justice.gov/epstein/files/DataSet%209/EFTA00073465.pdf) | court filing | Ghislaine Maxwell | Crime Victims' Rights Act, Victim Notification System |
+| [EFTA00173201](https://www.justice.gov/epstein/files/DataSet%209/EFTA00173201.pdf) | document | Leslie Groff, Ghislaine Maxwell | Jeffrey Epstein-Victim, Sex Trafficking |
+| [EFTA00371439](https://www.justice.gov/epstein/files/DataSet%209/EFTA00371439.pdf) | email | Groff | Victim Payouts |
+| [EFTA00429909](https://www.justice.gov/epstein/files/DataSet%209/EFTA00429909.pdf) | email | Lesley Groff | Federal Crime Victims Rights Act |
+| [EFTA00446172](https://www.justice.gov/epstein/files/DataSet%209/EFTA00446172.pdf) | email | Lesley Groff | Jane Doe |
+| [EFTA00067267](https://www.justice.gov/epstein/files/DataSet%209/EFTA00067267.pdf) | subpoena | Sarah Kellen | Victim |
+| [EFTA00261508](https://www.justice.gov/epstein/files/DataSet%209/EFTA00261508.pdf) | document | Maxwell | VICTIM |
+| [EFTA00313632](https://www.justice.gov/epstein/files/DataSet%209/EFTA00313632.pdf) | court filing | Ghislaine Maxwell | Plaintiff Jane Doe |
 
 These documents span the investigative lifecycle: FBI emails referencing "Crimes Against Children/Human Trafficking" alongside Maxwell's name, court filings where Jane Doe plaintiffs name operational staff, and victim impact statements that reference the same individuals who appear on financial records.
 
