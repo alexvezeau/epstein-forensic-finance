@@ -6,7 +6,7 @@
 
 ## The Numbers That Don't Add Up
 
-In 2020, the New York State Department of Financial Services fined Deutsche Bank $150 million for compliance failures related to Jeffrey Epstein's accounts. In 2023, JPMorgan Chase settled a victim class action for $290 million over its Epstein relationship from 2013–2019. Both banks faced regulatory and civil consequences.
+In 2020, the New York State Department of Financial Services fined Deutsche Bank $150 million for compliance failures related to Jeffrey Epstein's accounts. In 2023, JPMorgan Chase settled a victim class action for $290 million over its Epstein relationship from 1998–2013. Both banks faced regulatory and civil consequences.
 
 Bear Stearns — the bank that carried more Epstein financial activity than either of them — faced nothing.
 
@@ -55,7 +55,7 @@ When Financial Trust Company's financial records reference Southern Trust Compan
 
 JPMorgan Chase acquired Bear Stearns in March 2008 in a fire-sale merger brokered by the Federal Reserve. Bear Stearns' client accounts, including whatever accounts Financial Trust Company and Epstein & Co maintained there, were absorbed into JPMorgan's systems.
 
-JPMorgan's $290 million settlement in 2023 covered its Epstein relationship from **2013 to 2019**. The complaint focused on JPMorgan's direct banking relationship with Epstein during that period — specifically, the failure to file Suspicious Activity Reports despite red flags.
+JPMorgan's $290 million settlement in 2023 covered its Epstein relationship from **1998 to 2013**. The complaint focused on the bank's failure to file Suspicious Activity Reports despite red flags, including after Epstein's 2008 conviction.
 
 The pre-2008 Bear Stearns accounts are not addressed.
 
@@ -63,12 +63,12 @@ This creates a temporal enforcement gap:
 
 | Period | Institution | Enforcement Action |
 |--------|------------|-------------------|
-| ~2000–2008 | Bear Stearns | **None** |
+| ~pre-2008 | Bear Stearns | **None** |
 | 2008 (acquisition) | JPMorgan acquires Bear Stearns | — |
-| 2013–2019 | JPMorgan Chase (direct) | $290M settlement (2023) |
-| ~2003–2018 | Deutsche Bank | $150M DFS fine (2020) |
+| 1998–2013 | JPMorgan Chase (direct) | $290M settlement (2023) |
+| 2013–2018 | Deutsche Bank | $150M DFS fine (2020) |
 
-The period when Bear Stearns was independently processing Epstein-related financial activity — which our data suggests was the **highest-volume banking relationship in the network** — sits in an enforcement void. Bear Stearns ceased to exist. JPMorgan's settlement explicitly scoped to its own 2013–2019 relationship. Nobody looked backward.
+The period when Bear Stearns was independently processing Epstein-related financial activity — which our data suggests was the **highest-volume banking relationship in the network** — sits in an enforcement void. Bear Stearns ceased to exist. JPMorgan's settlement scoped to its own 1998–2013 direct relationship. The pre-acquisition Bear Stearns brokerage accounts — Financial Trust Company, Epstein & Co — were never examined as part of any enforcement action. Nobody looked backward into those legacy accounts.
 
 ## The Money That Has No Audit Trail
 
@@ -121,9 +121,9 @@ Top recurring amounts: $80M (37 mentions), $500M (14), $55M (15), $10M (21), $20
 ### External Corroboration
 - SEC opened investigation "In the Matter of Financial Trust Co. (HO-13814)" on Sept 25, 2019 (Kait Justice FOIA) — no public enforcement action resulted
 - JPMorgan acquired Bear Stearns March 2008; pre-2008 Epstein accounts fell into enforcement void
-- Deutsche Bank fined $150M by NYDFS (2020) for 2013–2019 relationship
-- JPMorgan settled $290M (2023) for 2013–2019 relationship
-- Neither settlement covers Bear Stearns-era activity (1976–2008)
+- Deutsche Bank fined $150M by NYDFS (2020) for 2013–2018 relationship
+- JPMorgan settled $290M (2023) for 1998–2013 relationship
+- Neither settlement covers Bear Stearns-era brokerage activity predating the 2008 acquisition
 
 ### 📄 EFTA Source Documents
 
