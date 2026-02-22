@@ -148,3 +148,56 @@ The data is in the EFTA documents. The 990s are public. The comparison is straig
 *All findings are (Unverified) automated extractions from DOJ EFTA documents released under the Epstein Files Transparency Act. Entity mention does not imply wrongdoing. This analysis identifies patterns for further investigation — it does not make legal conclusions.*
 
 *For the girls.*
+
+---
+
+## Source Documents & Exhibits
+
+### Primary Exhibit
+**Exhibit E** (EFTA00027019): Gratitude America MMDA disbursements.
+
+### Wire Ledger Cross-Reference
+12 Exhibit E wires, $6,253,493 total (see N6 appendix for full wire table — identical Exhibit E source).
+
+Key wires demonstrating investment vs. charitable split:
+
+**Investment-scale transfers:**
+- Gratitude America MMDA → Gratitude America Ltd. (Morgan Stanley/Citibank): $5,000,000 (2016-03-02)
+- Gratitude America MMDA → Gratitude America Ltd. (Morgan Stanley/Citibank): $500,000 (2016-07-19)
+- Gratitude America MMDA → Gratitude America Ltd. (First Bank PR): $250,000 (2016-04-06)
+
+**Charitable disbursements:**
+- Gratitude America MMDA → Bruce & Marsha Moskowitz Foundation: $50,000 (×3: 2016-01, 2016-07, 2017-12)
+- Gratitude America MMDA → Melanoma Research Alliance Foundation: $225,000 (2016-01-29)
+- Gratitude America MMDA → Cancer Research Wellness Institute: $25,000 (×2: 2017-10, 2018-02)
+- Gratitude America MMDA → NPO Baleto Teatras: $18,493 (2018-04-02)
+- Gratitude America MMDA → VSJ Baleto Teatras: $10,000 (2018-09-17)
+
+### Corpus Statistics Source
+- **Gratitude America**: 209 total files, 89 financial documents
+- **Investment/Charity ratio**: 83% investment (Boothbay, Honeycomb, Valar, Coatue, Foundation Medicine) / 17% charitable (Baleto Teatras, Cancer Research, C.O.U.Q., Florida Science, Moskowitz) by document frequency
+- **BV70 LLC**: Sole capitalization source at $10M (confirmed by wire ledger and rhowardstone)
+- **Karyna Shuliak**: 8 files — Epstein's girlfriend, Lithuanian-born, connected to Baleto Teatras
+- **Deutsche Bank AG**: 76 files — primary banking relationship
+- **Method**: Entity co-occurrence analysis across Gratitude America financial documents
+
+### External Corroboration
+- WSJ reporter inquiry (EFTA00009962): Charities listed on Gratitude America tax forms said they never received listed donations
+- NBC News: Independent verification that named charities denied receiving Gratitude America funds
+- Daily Beast: Cancer Research Wellness Institute founder Howard Straus said he'd never heard of Epstein or Gratitude America
+- Richard Kahn confirmed as Gratitude America president (Harvard Crimson, Daily Beast, tax filings)
+- Darren Indyke confirmed as treasurer
+- BV70 LLC (Leon Black) sole capitalization confirmed (rhowardstone)
+
+### 📊 Verify in Forensic Workbook
+
+| Exhibit / Analysis | View in Workbook |
+|---|---|
+| Master Wire Ledger — Exhibit E (Gratitude America) | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2043824625#gid=2043824625) |
+| Entity P&L — Gratitude America | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1497389416#gid=1497389416) |
+| Shell Network — Gratitude America co-occurrence | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1040516313#gid=1040516313) |
+| Shell Trust Hierarchy | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1943952132#gid=1943952132) |
+| Methodology | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994) |
+
+### How to Verify
+EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Wire data from EFTA00027019 Exhibit E. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).

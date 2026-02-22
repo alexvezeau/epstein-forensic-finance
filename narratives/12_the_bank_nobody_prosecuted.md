@@ -97,3 +97,43 @@ The records exist. They sit somewhere in JPMorgan Chase's legacy systems. The qu
 *All findings are (Unverified) automated extractions from DOJ EFTA documents released under the Epstein Files Transparency Act. Entity mention does not imply wrongdoing. This analysis identifies patterns for further investigation — it does not make legal conclusions.*
 
 *For the girls.*
+
+---
+
+## Source Documents & Exhibits
+
+### Primary Source
+Corpus-wide analysis of Bear Stearns financial documents and Financial Trust Company co-occurrence.
+
+### Key EFTA Corpus Statistics
+- **Bear Stearns**: 191 financial files, 2,381,211 money-entity mentions (5.7× Deutsche Bank's 415,287)
+- **Financial Trust Company**: 1,014 total files (2,758 financial, 535 document, 357 court filing, 146 letter, 118 phone record, 115 fax, 108 subpoena)
+- **Bear Stearns × Financial Trust Co**: 66 shared financial files, 6,910 money mentions
+- **Method**: Bank × shell entity co-occurrence in financial documents (doc_type = 'financial')
+
+### Wire Ledger Cross-Reference
+Financial Trust Company has **zero wires** in the Master Wire Ledger — all 382 verified wires are from Deutsche Bank production. This is the central finding: the highest-volume bank-shell relationship in the corpus produced no enforcement wire data because Bear Stearns was never subjected to equivalent regulatory action.
+
+### Money Values in Bear Stearns × Financial Trust Co Documents
+Top recurring amounts: $80M (37 mentions), $500M (14), $55M (15), $10M (21), $20M (19)
+**Method**: Money-entity extraction from files where both Bear Stearns and Financial Trust Co entities co-occur.
+
+### External Corroboration
+- SEC opened investigation "In the Matter of Financial Trust Co. (HO-13814)" on Sept 25, 2019 (Kait Justice FOIA) — no public enforcement action resulted
+- JPMorgan acquired Bear Stearns March 2008; pre-2008 Epstein accounts fell into enforcement void
+- Deutsche Bank fined $150M by NYDFS (2020) for 2013–2019 relationship
+- JPMorgan settled $290M (2023) for 2013–2019 relationship
+- Neither settlement covers Bear Stearns-era activity (1976–2008)
+
+### 📊 Verify in Forensic Workbook
+
+| Exhibit / Analysis | View in Workbook |
+|---|---|
+| Master Wire Ledger — Zero Financial Trust Co wires | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2043824625#gid=2043824625) |
+| Shell Network — Bear Stearns × Financial Trust Co | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1040516313#gid=1040516313) |
+| Entity P&L — Financial Trust Company | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1497389416#gid=1497389416) |
+| SAR Comparison | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1121979938#gid=1121979938) |
+| Methodology | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994) |
+
+### How to Verify
+EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Banking infrastructure data in [METHODOLOGY.md](METHODOLOGY.md).

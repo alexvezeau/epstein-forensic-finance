@@ -119,3 +119,41 @@ However, a confounding variable exists: both wire transfers and flights may clus
 ---
 
 *Source: DOJ EFTA Document Release — Deutsche Bank-SDNY Production (Exhibits A–E), APIS/CBP Passenger Records (Datasets 8, 9, 11), FAA Aircraft Registry. 2,411,188 dates extracted from 1,072,086 files via automated pipeline. Statistical calculation assumes uniform distribution of events across 2,017-day observation window (Oct 2013 – Apr 2019). This analysis appears in the [master wire ledger](../data/master_wire_ledger_phase25.json) and supporting data published with this repository.*
+
+---
+
+## Source Documents & Exhibits
+
+### Primary Exhibits
+**All Exhibits A–E** (EFTA00027019): 122 dated wires used for temporal correlation against flight log dates.
+
+| Exhibit | Dated Wires | Value |
+|---------|-------------|-------|
+| A | 17 | $151,499,980 |
+| B | 18 | $33,139,248 |
+| C | 64 | $89,372,037 |
+| D | 11 | $68,760,686 |
+| E | 12 | $6,253,493 |
+
+### Flight Log Source
+Flight logs extracted from EFTA corpus (doc_type = flight_log). Correlation computed as wire-to-flight temporal proximity (±3 day window).
+
+### Corpus Statistics Source
+**Method**: Temporal correlation analysis — wire dates vs. flight log dates with geographic enrichment.
+**Finding**: 4.3× random correlation rate; $169M in wires within ±3 days of St. Thomas flights.
+**Database**: 1,476,377 files, 11.4M extracted entities (see METHODOLOGY.md).
+
+### Scope Note
+Wire dates are from Deutsche Bank production only. Flight correlations may also exist with Bear Stearns/JPMorgan transaction dates not available in this production. The 4.3× rate is a lower bound.
+
+### 📊 Verify in Forensic Workbook
+
+| Exhibit / Analysis | View in Workbook |
+|---|---|
+| Master Wire Ledger — All dated wires | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2043824625#gid=2043824625) |
+| Date Recovery — Phase 23 | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=339305346#gid=339305346) |
+| Executive Summary | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1804001356#gid=1804001356) |
+| Methodology | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994) |
+
+### How to Verify
+EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Wire data from EFTA00027019 Exhibits A–E. Flight logs from EFTA corpus. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).

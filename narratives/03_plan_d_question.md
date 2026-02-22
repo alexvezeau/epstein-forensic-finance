@@ -82,3 +82,41 @@ Beyond Plan D LLC and Southern Trust, I found transfers involving Debra Black th
 ---
 
 *Source: DOJ EFTA Document Release, Deutsche Bank-SDNY Production, Exhibits A and C. All data extracted via automated pipeline. Supporting data: [Forensic Workbook (view-only)](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?usp=sharing&ouid=103970896670138914877&rtpof=true&sd=true). This finding appears in the [master wire ledger](../data/master_wire_ledger_phase25.json) published with this repository.*
+
+---
+
+## Source Documents & Exhibits
+
+### Primary Source
+Expansion wires (Phase 14–24 extraction) — not from Deutsche Bank Exhibits A–E. These wires were extracted from broader EFTA corpus financial documents referencing Plan D LLC.
+
+### Wire Ledger Cross-Reference
+5 wires verified, $18,001,125 total. Exhibit designation: expansion (non-exhibit wires).
+
+| Wire | Amount | Date |
+|------|--------|------|
+| PLAN D LLC → LEON_BLACK | $8,000,000 | undated |
+| PLAN D LLC → LEON_BLACK | $5,000,000 | undated |
+| PLAN D LLC → LEON_BLACK | $3,000,000 | undated |
+| PLAN D LLC → LEON_BLACK | $2,000,000 | undated |
+| REMITTANCE ADVICE → PLAN D LLC | $1,125 | undated |
+
+### Corpus Statistics Source
+**Method**: Entity co-occurrence analysis across files containing "Plan D" (entity_type = ORG).
+**Database**: 1,476,377 files, 11.4M extracted entities (see METHODOLOGY.md).
+
+### External Corroboration
+- Dechert LLP review (2021): Documented $30.5M BV70 LLC → Plan D "loan" for "art transaction"
+- rhowardstone EFTA research: Confirmed Plan D as intermediary vehicle between BV70 and Leon Black personal accounts
+
+### 📊 Verify in Forensic Workbook
+
+| Exhibit / Analysis | View in Workbook |
+|---|---|
+| Master Wire Ledger — Expansion wires (Plan D) | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2043824625#gid=2043824625) |
+| Entity P&L — Plan D LLC | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1497389416#gid=1497389416) |
+| Shell Trust Hierarchy | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1943952132#gid=1943952132) |
+| Methodology | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994) |
+
+### How to Verify
+EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Full methodology in [METHODOLOGY.md](METHODOLOGY.md).

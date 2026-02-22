@@ -68,3 +68,39 @@ Several bates stamps show OCR artifacts in entity names: "Jee ers Inc." appears 
 ---
 
 *Source: DOJ EFTA Document Release, Deutsche Bank-SDNY Production, Exhibit C. All data extracted via automated pipeline; no manual adjustments to amounts or dates. 24/24 entries dated (100%). Supporting data: [Forensic Workbook (view-only)](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?usp=sharing&ouid=103970896670138914877&rtpof=true&sd=true). This finding appears in the [master wire ledger](../data/master_wire_ledger_phase25.json) published with this repository.*
+
+---
+
+## Source Documents & Exhibits
+
+### Primary Exhibit
+**Exhibit C** (EFTA00027019): Jeepers Inc. brokerage account activity at Deutsche Bank, 2013–2019.
+
+### Wire Ledger Cross-Reference
+24 wires verified, $57,876,640 total. All from Exhibit C.
+
+| Wire | Amount | Date |
+|------|--------|------|
+| Jeepers Inc. (DB Brokerage) → Jeffrey Epstein NOW/SuperNow Account | $3,000,000 | 2013-10-11 |
+| Jeepers Inc. (DB Brokerage) → Jeffrey Epstein NOW/SuperNow Account | $2,000,000 | 2013-11-14 |
+| Jeepers Inc. → Jeepers Inc. (DB Brokerage) | $2,000,000 | 2013-12-20 |
+| *(21 additional wires — see Master Wire Ledger, Exhibit C)* | | |
+
+### Corpus Statistics Source
+**Method**: Entity co-occurrence analysis across files containing "Jeepers" entity variants.
+**Database**: 1,476,377 files, 11.4M extracted entities (see METHODOLOGY.md).
+
+### Scope Note
+Wire data sourced exclusively from Deutsche Bank production (Exhibits A–E). Jeepers Inc. also co-occurs with Financial Trust Company (125 shared files), which banked primarily at Bear Stearns — indicating additional financial activity outside this production's scope. See N11 (Shell Map) and N12 (Bear Stearns) for multi-bank context.
+
+### 📊 Verify in Forensic Workbook
+
+| Exhibit / Analysis | View in Workbook |
+|---|---|
+| Master Wire Ledger — Exhibit C (Jeepers wires) | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2043824625#gid=2043824625) |
+| Shell Network — Jeepers co-occurrence | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1040516313#gid=1040516313) |
+| Entity P&L — Jeepers Inc. | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1497389416#gid=1497389416) |
+| Methodology | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994) |
+
+### How to Verify
+All EFTA document IDs are from the public DOJ release under the Epstein Files Transparency Act at [efts.gov](https://efts.gov). Wire data from EFTA00027019 Exhibit C. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).

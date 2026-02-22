@@ -81,3 +81,52 @@ Seven banks. Recurring disbursements. One trust.
 *All findings are (Unverified) automated extractions from DOJ EFTA documents released under the Epstein Files Transparency Act. Entity mention does not imply wrongdoing. This analysis identifies patterns for further investigation — it does not make legal conclusions.*
 
 *For the girls.*
+
+---
+
+## Source Documents & Exhibits
+
+### Primary Source
+Corpus-wide analysis of Outgoing Money Trust entity co-occurrence with banking institutions.
+
+### Key EFTA Corpus Statistics
+- **Outgoing Money Trust**: 195 total files, 180 financial documents, zero wires in Master Wire Ledger
+- **7-Bank Architecture** (from entity co-occurrence in financial docs):
+
+| Bank | Shared Files with OMT |
+|------|----------------------|
+| Deutsche Bank | 180 |
+| Wells Fargo | 63 |
+| Bank of America | 38 |
+| TD Bank | 23 |
+| JPMorgan Chase | 14 |
+| PNC Bank | 12 |
+| Sabadell United Bank | 11 |
+
+**Method**: Bank entity co-occurrence with "Outgoing Money Trust" in financial documents.
+
+### Disbursement Amount Clustering
+Top recurring amounts: $100K (61 mentions), $200K (50), $175K (20), $500K (17), $400K (17), $250K (16), $230K (15)
+Recurring fees: $7,000 (39 mentions), $7,200 (18)
+**Method**: Money-entity extraction from OMT financial documents.
+
+### Key Persons
+- Stewart Oldfield: 35 files — identified as Deutsche Bank operations staff (per rhowardstone INVESTIGATION_8)
+- **Method**: Person entity extraction from OMT financial documents, cross-referenced with external reporting
+
+### External Corroboration
+- rhowardstone INVESTIGATION_8: Identifies Stewart Oldfield alongside Brigid Macias, Firdaus Madiar, Monica Gilkins, Rachel Wachs as Deutsche Bank staff processing Epstein transactions
+- BSA structuring threshold: $10,000 (31 U.S.C. § 5324) — OMT disbursement pattern shows amounts clustered below and at round thresholds
+
+### 📊 Verify in Forensic Workbook
+
+| Exhibit / Analysis | View in Workbook |
+|---|---|
+| Shell Network — Outgoing Money Trust × 7 banks | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1040516313#gid=1040516313) |
+| Shell Trust Hierarchy — OMT position | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1943952132#gid=1943952132) |
+| Money Flow Patterns — Disbursement clustering | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2075093083#gid=2075093083) |
+| Entity P&L — Outgoing Money Trust | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1497389416#gid=1497389416) |
+| Methodology | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994) |
+
+### How to Verify
+EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Full methodology in [METHODOLOGY.md](METHODOLOGY.md).

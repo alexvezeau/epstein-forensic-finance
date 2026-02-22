@@ -142,3 +142,54 @@ An accounting firm earning modest fees but routing 18,833 emails across a networ
 *All findings are (Unverified) automated extractions from DOJ EFTA documents released under the Epstein Files Transparency Act. Entity mention does not imply wrongdoing. This analysis identifies patterns for further investigation — it does not make legal conclusions.*
 
 *For the girls.*
+
+---
+
+## Source Documents & Exhibits
+
+### Primary Source
+Corpus-wide analysis of HBRK Associates / Richard Kahn entity co-occurrence across all document types.
+
+### Key EFTA Corpus Statistics
+- **HBRK Associates / Richard Kahn**: 11,153 files (7,103 as "Richard Kahn/HBRK Associates Inc.")
+- **Document type distribution**: Email (18,833), Financial (133), Document (108), Letter (91), Court Filing (20), Fax (15), Flight Log (11), Subpoena (7), Phone Record (2) — **97.8% email**
+- **Method**: Entity co-occurrence analysis for "HBRK" across all document types and shell entities
+
+### Shell Co-Occurrence by Document Type
+
+| Shell Entity | Email | Document | Fax | Court Filing | Financial |
+|-------------|-------|----------|-----|-------------|-----------|
+| Southern Financial | 67 | 7 | 8 | 3 | 4 |
+| Southern Trust | 48+34 | 7 | 4 | 3 | — |
+| Haze Trust | 15+7 | — | — | — | — |
+| Butterfly Trust | 13 | 8 | 3 | 3 | — |
+| Jeepers | 12+11 | — | — | — | — |
+| Gratitude America | 8+5+3+3 | — | — | — | — |
+| Financial Trust Company | 7 | — | — | — | — |
+| Nautilus | — | 4 | — | 3 | — |
+
+**Method**: Shell entity × HBRK co-occurrence partitioned by doc_type.
+
+### Inner Circle (by file co-occurrence with HBRK)
+Richard Kahn (11,153), Jeffrey Epstein (4,510), JEE variants (7,300 combined), Rich Kahn variants (2,122), Lesley Groff (1,280), Emad Hanna (894), Daphne Wallace (881), Bella Klein (819), Karyna Shuliak (587).
+
+### External Corroboration
+- "HBRK stands for Harry Beller Richard Kahn" — 2025 Bank of America and BNY Mellon class action lawsuits, SDNY
+- Senate Finance Committee letter (Wyden et al., December 2025): Kahn had signatory authority over Epstein accounts at JPMC "and other financial institutions"
+- JPMorgan SARs: "Kahn was a primary actor in movement of Epstein's funds" and "potentially assisted in facilitating the sex trafficking ring" (2023 JPMC internal KYC profile)
+- Bella Klein confirmed as Kahn's assistant who communicated with trafficking victims about wire transfers (BofA class action)
+- DOJ/FBI never questioned Kahn or Indyke in connection with any criminal investigation (Senate Finance Committee, December 2025)
+- Bank of America lawsuit: Kahn "devised schemes to entrap" trafficking victims and "serviced the taxes of numerous Epstein victims"
+
+### 📊 Verify in Forensic Workbook
+
+| Exhibit / Analysis | View in Workbook |
+|---|---|
+| Shell Network — HBRK × shell co-occurrence | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1040516313#gid=1040516313) |
+| Entity P&L — Richard Kahn / HBRK | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1497389416#gid=1497389416) |
+| Shell Trust Hierarchy — HBRK position | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1943952132#gid=1943952132) |
+| Executive Summary | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1804001356#gid=1804001356) |
+| Methodology | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994) |
+
+### How to Verify
+EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Full methodology in [METHODOLOGY.md](METHODOLOGY.md).

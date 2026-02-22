@@ -87,3 +87,46 @@ The largest single destination for Gratitude America's outflows was "Gratitude A
 ---
 
 *Source: DOJ EFTA Document Release, Deutsche Bank-SDNY Production, Exhibit E. All data extracted via automated pipeline. Supporting data: [Forensic Workbook (view-only)](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?usp=sharing&ouid=103970896670138914877&rtpof=true&sd=true). This finding appears in the [master wire ledger](../data/master_wire_ledger_phase25.json) published with this repository.*
+
+---
+
+## Source Documents & Exhibits
+
+### Primary Exhibit
+**Exhibit E** (EFTA00027019): Gratitude America MMDA disbursements plus expansion wires.
+
+### Wire Ledger Cross-Reference
+20 wires total (12 from Exhibit E, 8 expansion), $13,080,518 combined.
+
+**Exhibit E wires (12):**
+
+| Wire | Amount | Date |
+|------|--------|------|
+| Gratitude America MMDA → Bruce & Marsha Moskowitz Foundation | $50,000 | 2016-01-07 |
+| Gratitude America MMDA → Gratitude America Ltd. (First Bank PR) | $50,000 | 2016-01-21 |
+| Gratitude America MMDA → Melanoma Research Alliance Foundation | $225,000 | 2016-01-29 |
+| Gratitude America MMDA → Gratitude America Ltd. (Morgan Stanley/Citibank) | $5,000,000 | 2016-03-02 |
+| Gratitude America MMDA → Gratitude America Ltd. (First Bank PR) | $250,000 | 2016-04-06 |
+| Gratitude America MMDA → Bruce & Marsha Moskowitz Foundation | $50,000 | 2016-07-14 |
+| Gratitude America MMDA → Gratitude America Ltd. (Morgan Stanley/Citibank) | $500,000 | 2016-07-19 |
+| Gratitude America MMDA → Cancer Research Wellness Institute | $25,000 | 2017-10-02 |
+| Gratitude America MMDA → Bruce & Marsha Moskowitz Foundation | $50,000 | 2017-12-11 |
+| Gratitude America MMDA → Cancer Research Wellness Institute | $25,000 | 2018-02-28 |
+| Gratitude America MMDA → NPO Baleto Teatras | $18,493 | 2018-04-02 |
+| Gratitude America MMDA → VSJ Baleto Teatras | $10,000 | 2018-09-17 |
+
+### Corpus Statistics Source
+**Method**: Entity co-occurrence analysis across 209 files containing "Gratitude America."
+**Database**: 1,476,377 files, 11.4M extracted entities (see METHODOLOGY.md).
+
+### 📊 Verify in Forensic Workbook
+
+| Exhibit / Analysis | View in Workbook |
+|---|---|
+| Master Wire Ledger — Exhibit E (Gratitude America) | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2043824625#gid=2043824625) |
+| Entity P&L — Gratitude America | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1497389416#gid=1497389416) |
+| Shell Network — Gratitude America co-occurrence | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1040516313#gid=1040516313) |
+| Methodology | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994) |
+
+### How to Verify
+EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Wire data from EFTA00027019 Exhibit E. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).

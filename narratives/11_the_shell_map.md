@@ -146,3 +146,39 @@ We mapped the rivers. The corpus shows there are also streams, creeks, and under
 *Source: DOJ EFTA Document Release — 11.4 million entity records across 1.48 million files. Shell entities identified by ORG-type entity search filtered for corporate suffixes (Trust, LLC, Inc, LP, Ltd) with Epstein co-occurrence. Document co-occurrence measured by shared file_id counts. Money mentions measured by MONEY-type entity co-occurrence. This analysis is published as part of the [Epstein Financial Forensics](https://github.com/randallscott25-star/epstein-forensic-finance) repository.*
 
 *For the girls.*
+
+---
+
+## Source Documents & Exhibits
+
+### Primary Source
+Corpus-wide shell entity co-occurrence and multi-bank infrastructure analysis.
+
+### Corpus Statistics Source
+**Method**: Entity × entity co-occurrence across all document types, combined with bank × shell co-occurrence in financial documents.
+**Finding**: 14 shell entities, 12 banking relationships, Bear Stearns 5.7× Deutsche Bank by money-mention volume.
+**Database**: 1,476,377 files, 11.4M extracted entities (see METHODOLOGY.md).
+
+### Banking Infrastructure Table (from analysis)
+
+| Bank | Financial Files | Money Mentions |
+|------|----------------|---------------|
+| Bear Stearns | 191 | 2,381,211 |
+| JPMorgan/Chase | 615 | 744,536 |
+| Deutsche Bank | 1,564 | 415,287 |
+| Citibank | 39 | 78,176 |
+| Goldman Sachs | 25 | 14,999 |
+| HSBC | 44 | 13,389 |
+| Morgan Stanley | 82 | 13,255 |
+
+### 📊 Verify in Forensic Workbook
+
+| Exhibit / Analysis | View in Workbook |
+|---|---|
+| Shell Network — Full 14-entity map | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1040516313#gid=1040516313) |
+| Shell Trust Hierarchy | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1943952132#gid=1943952132) |
+| Executive Summary | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1804001356#gid=1804001356) |
+| Methodology | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994) |
+
+### How to Verify
+EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Interactive visualization: [shell_network_v3.html](shell_network_v3.html). Full methodology in [METHODOLOGY.md](METHODOLOGY.md).

@@ -84,3 +84,40 @@ The 2020 DFS settlement confirms regulatory findings that Deutsche Bank's compli
 ---
 
 *Source: DOJ EFTA Document Release, Deutsche Bank-SDNY Production, Exhibits C, D, and E. All data extracted via automated pipeline. Supporting data: [Forensic Workbook (view-only)](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?usp=sharing&ouid=103970896670138914877&rtpof=true&sd=true). This finding appears in the [master wire ledger](../data/master_wire_ledger_phase25.json) published with this repository.*
+
+---
+
+## Source Documents & Exhibits
+
+### Primary Exhibits
+**Exhibits C, D, E** (EFTA00027019) plus expansion wires referencing Deutsche Bank.
+
+74 wires verified involving Deutsche Bank accounts, across:
+
+| Exhibit | Wires | Total Value |
+|---------|-------|-------------|
+| C | 24 | $57,876,640 |
+| D | 9 | $49,786,269 |
+| E | 4 | $5,800,000 |
+| Expansion | 37 | $54,792,936 |
+
+### Corpus Statistics Source
+**Method**: Entity co-occurrence analysis for "Deutsche Bank" across all document types.
+**Database**: Deutsche Bank appears in 1,564 financial files with 415,287 money-entity mentions.
+**Context**: Bear Stearns has 2,381,211 money mentions (5.7× more). Deutsche Bank is the source of the wire production, not necessarily the highest-volume bank in the network. See N12.
+
+### External Corroboration
+- NYDFS consent order (2020): Deutsche Bank fined $150M for BSA/AML failures
+- SDNY production: Exhibits A–E from Deutsche Bank compliance records
+
+### 📊 Verify in Forensic Workbook
+
+| Exhibit / Analysis | View in Workbook |
+|---|---|
+| Master Wire Ledger — Deutsche Bank wires | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2043824625#gid=2043824625) |
+| Shell Network — Deutsche Bank co-occurrence | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1040516313#gid=1040516313) |
+| SAR Comparison | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1121979938#gid=1121979938) |
+| Methodology | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994) |
+
+### How to Verify
+EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Wire data from EFTA00027019. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).

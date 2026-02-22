@@ -111,3 +111,30 @@ This is not a finding about guilt. It is a finding about structure. The financia
 *Source: DOJ EFTA Document Release — 11.4 million entity records across 1.48 million files. Entity co-occurrence measured by unique file count per document category. Wire transfer data from Deutsche Bank-SDNY Production (Exhibits A–E), 185 verified wires. Document type classifications from automated pipeline with manual validation. Supporting data: [Forensic Workbook (view-only)](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?usp=sharing&ouid=103970896670138914877&rtpof=true&sd=true). This analysis is published as part of the [Epstein Financial Forensics](https://github.com/randallscott25-star/epstein-forensic-finance) repository.*
 
 *For the girls.*
+
+---
+
+## Source Documents & Exhibits
+
+### Primary Source
+Corpus-wide entity co-occurrence analysis — not limited to any single exhibit.
+
+### Corpus Statistics Source
+**Method**: Person × document co-occurrence analysis identifying 10 operational staff members who appear across multiple document types and shell entities.
+**Database**: 1,476,377 files, 11.4M extracted entities, 734,122 unique persons (see METHODOLOGY.md).
+**Finding**: 50 co-occurrence documents linking operational staff to shell network.
+
+### Scope Note
+This narrative draws from the full EFTA corpus, not limited to Deutsche Bank wire production. Staff identification based on cross-document-type presence (email + financial + court filing + fax).
+
+### 📊 Verify in Forensic Workbook
+
+| Exhibit / Analysis | View in Workbook |
+|---|---|
+| Shell Network — Staff co-occurrence | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1040516313#gid=1040516313) |
+| Shell Trust Hierarchy | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1943952132#gid=1943952132) |
+| Executive Summary | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1804001356#gid=1804001356) |
+| Methodology | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994) |
+
+### How to Verify
+EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Full methodology in [METHODOLOGY.md](METHODOLOGY.md).

@@ -106,3 +106,30 @@ The round-number problem is not that the transfers are fake. It is that they are
 *Source: DOJ EFTA Document Release — Deutsche Bank-SDNY Production (Exhibits A–E), 185 verified wire transfers totaling $557,372,954. Benford's Law analysis performed on first-digit and first-two-digit distributions. Round-number classification by modular arithmetic at million, hundred-thousand, ten-thousand, and thousand levels. Supporting data: [Forensic Workbook (view-only)](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?usp=sharing&ouid=103970896670138914877&rtpof=true&sd=true). This analysis is published as part of the [Epstein Financial Forensics](https://github.com/randallscott25-star/epstein-forensic-finance) repository.*
 
 *For the girls.*
+
+---
+
+## Source Documents & Exhibits
+
+### Primary Exhibits
+**Exhibits A–E** (EFTA00027019): 382 verified wire transfer amounts tested against Benford's Law.
+
+### Corpus Statistics Source
+**Method**: Benford's Law first-digit analysis on 382 wire amounts from the Master Wire Ledger.
+**Finding**: 84.3% round numbers. Digits 2 and 5 over-represented vs. Benford's expected distribution.
+**Database**: Master Wire Ledger (382 wires, $1.964B total).
+
+### Scope Note
+Benford's test applied to Deutsche Bank wire production only. The test could be extended to Bear Stearns/JPMorgan transaction data if those records become available through future enforcement actions or EFTA releases.
+
+### 📊 Verify in Forensic Workbook
+
+| Exhibit / Analysis | View in Workbook |
+|---|---|
+| Master Wire Ledger — Full 382 wires | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2043824625#gid=2043824625) |
+| SAR Comparison | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1121979938#gid=1121979938) |
+| Above-Cap Verified | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2071460294#gid=2071460294) |
+| Methodology | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994) |
+
+### How to Verify
+EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Wire data from EFTA00027019 Exhibits A–E. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).

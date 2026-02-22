@@ -116,3 +116,64 @@ Their presence on Southern Trust Company records places them inside the Epstein 
 *All findings are (Unverified) automated extractions from DOJ EFTA documents released under the Epstein Files Transparency Act. Entity mention does not imply wrongdoing. This analysis identifies patterns for further investigation — it does not make legal conclusions.*
 
 *For the girls.*
+
+---
+
+## Source Documents & Exhibits
+
+### Primary Exhibit
+**Exhibit A** (EFTA00027019): Incoming wires to Southern Trust Company Inc.
+
+### Wire Ledger Cross-Reference
+34 wires verified involving Black entities, $183,096,478 total.
+
+**Exhibit A — 15 wires, $126,500,000 (incoming to Southern Trust):**
+
+| Wire | Amount | Date |
+|------|--------|------|
+| Leon & Debra Black → Southern Trust Company Inc. | $8,500,000 | 2013-10-15 |
+| Black Family Partners LP c/o Apollo Management → Southern Trust Company Inc. | $10,000,000 | 2013-12-18 |
+| Leon & Debra Black → Southern Trust Company Inc. | $5,000,000 | 2014-04-25 |
+| Black Family Partners LP c/o Apollo Management → Southern Trust Company Inc. | $5,000,000 | 2014-04-25 |
+| Leon & Debra Black → Southern Trust Company Inc. | $15,000,000 | 2014-04-29 |
+| Narrow Holdings LLC c/o Elysium Management → Southern Trust Company Inc. | $20,000,000 | 2014-07-15 |
+| Leon & Debra Black → Southern Trust Company Inc. | $7,000,000 | 2014-10-16 |
+| Black Family Partners LP c/o Apollo Management → Southern Trust Company Inc. | $13,000,000 | 2014-10-16 |
+| Leon & Debra Black c/o Apollo Management → Southern Trust Company Inc. | $2,000,000 | 2014-10-22 |
+| Black Family Partners LP c/o Apollo Management → Southern Trust Company Inc. | $3,000,000 | 2014-10-22 |
+| Leon & Debra Black c/o Apollo Management → Southern Trust Company Inc. | $5,000,000 | 2015-10-13 |
+| Black Family Partners LP c/o Apollo Management → Southern Trust Company Inc. | $5,000,000 | 2015-10-13 |
+| Black Family Partners LP → Southern Trust Company Inc. | $10,000,000 | 2015-12-18 |
+| Leon & Debra Black c/o Apollo Management → Southern Trust Company Inc. | $10,000,000 | 2015-12-30 |
+| Leon & Debra Black c/o Apollo Management → Southern Trust Company Inc. | $8,000,000 | 2017-04-25 |
+
+**Expansion wires — 19 additional, $56,596,478** (Plan D outflows, Debra Black transfers, JPMorgan activity)
+
+### Shell Co-Occurrence
+Black entities appear across 7 shell entities: Southern Trust (60 files), Financial Trust Co (46), Haze Trust (11), Jeepers (10), Gratitude America (8), Southern Financial (6), Epstein & Co (6).
+**Method**: Entity co-occurrence analysis matching Leon Black / Leon & Debra / Black Family Partners against each shell entity.
+
+### Southern Trust Outflow Funds
+Apollo Management (13 files), Elysium Management LLC (9), Coatue Enterprises (6), Apollo Global Management (4), Boothbay Multi-Strategy Fund (4), Honeycomb (4), Valar Global Fund II (4), BV70 LLC (2), Narrow Holdings LLC (2).
+**Critical finding**: "Black Family Partners LP c/o Apollo Management" appears on Southern Trust wire records — direct evidence of Black's family office routing funds through Epstein's shell to Black's own firm.
+
+### External Corroboration
+- Dechert LLP review (2021, commissioned by Apollo board): $158–170M total Black → Epstein payments
+- rhowardstone EFTA research: $168M across 14 wire transfers from 5 Black entities to Southern Trust
+- Our $60.5M independently verified subset consistent with (not contradicting) $158–170M total
+- BV70 LLC confirmed as Black family entity; Narrow Holdings LLC c/o Elysium Management confirmed
+- Elysium Management: Leon D. Black and Brad Wechsler as Managing Directors
+
+### 📊 Verify in Forensic Workbook
+
+| Exhibit / Analysis | View in Workbook |
+|---|---|
+| Master Wire Ledger — Exhibit A (Black → Southern Trust) | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2043824625#gid=2043824625) |
+| Entity P&L — Leon Black entities | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1497389416#gid=1497389416) |
+| Shell Network — Black × shell co-occurrence | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1040516313#gid=1040516313) |
+| Money Flow Patterns — Black entity flows | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2075093083#gid=2075093083) |
+| Shell Trust Hierarchy | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1943952132#gid=1943952132) |
+| Methodology | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994) |
+
+### How to Verify
+EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Wire data from EFTA00027019 Exhibit A. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).

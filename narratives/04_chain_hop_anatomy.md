@@ -67,3 +67,41 @@ I did not automatically remove these matches. Each was reviewed in the context o
 ---
 
 *Source: DOJ EFTA Document Release, Deutsche Bank-SDNY Production, Exhibits A and D. Chain-hop removal methodology documented in [METHODOLOGY.md](../METHODOLOGY.md), Phase 22. Entity classifications and shell-to-shell flags are included in the [master wire ledger](../data/master_wire_ledger_phase25.json).*
+
+---
+
+## Source Documents & Exhibits
+
+### Primary Exhibits
+**All Exhibits A–E** (EFTA00027019) plus expansion wires.
+
+This narrative synthesizes the full 382-wire ledger to demonstrate inter-entity fund routing patterns.
+
+| Exhibit | Wires | Total Value | Primary Entities |
+|---------|-------|-------------|-----------------|
+| A | 17 | $151,499,980 | Black entities → Southern Trust |
+| B | 18 | $33,139,248 | Southern Financial ↔ investment funds |
+| C | 64 | $89,372,037 | Jeepers → Epstein personal accounts |
+| D | 11 | $68,760,686 | Haze Trust / art proceeds → Southern Financial |
+| E | 12 | $6,253,493 | Gratitude America disbursements |
+| Expansion | 260 | $208,927,537 | Multi-entity, multi-bank |
+
+### Corpus Statistics Source
+**Method**: Entity co-occurrence + wire pathway analysis across all shell entities.
+**Database**: 1,476,377 files, 11.4M extracted entities (see METHODOLOGY.md).
+
+### Scope Note
+The 4-tier model (intake → holding → distribution → personal) describes patterns visible in one bank's production. The full architecture includes Financial Trust Company (Bear Stearns), Outgoing Money Trust (7 banks), and other entities documented in N11–N13.
+
+### 📊 Verify in Forensic Workbook
+
+| Exhibit / Analysis | View in Workbook |
+|---|---|
+| Master Wire Ledger — All Exhibits | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2043824625#gid=2043824625) |
+| Money Flow Patterns | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2075093083#gid=2075093083) |
+| Shell Trust Hierarchy | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1943952132#gid=1943952132) |
+| Above-Cap Verified | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2071460294#gid=2071460294) |
+| Methodology | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994) |
+
+### How to Verify
+EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Wire data from EFTA00027019 Exhibits A–E. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).

@@ -76,3 +76,41 @@ The outflow amounts ($5M, $8M, $9M, $10M) are round numbers — consistent with 
 ---
 
 *Source: DOJ EFTA Document Release, Deutsche Bank-SDNY Production, Exhibit D. All data extracted via automated pipeline. Supporting data: [Forensic Workbook (view-only)](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?usp=sharing&ouid=103970896670138914877&rtpof=true&sd=true). This finding appears in the [master wire ledger](../data/master_wire_ledger_phase25.json) published with this repository.*
+
+---
+
+## Source Documents & Exhibits
+
+### Primary Exhibit
+**Exhibit D** (EFTA00027019): Haze Trust activity at Deutsche Bank, including art auction proceeds.
+
+### Wire Ledger Cross-Reference
+11 wires verified, $68,760,686 total. All from Exhibit D.
+
+| Wire | Amount | Date |
+|------|--------|------|
+| Christie's Inc. → The Haze Trust (Checking) | $7,725,000 | 2017-06-19 |
+| Sotheby's → The Haze Trust (Checking) | $11,249,417 | 2017-10-24 |
+| The Haze Trust (DBAGNY) → Southern Financial LLC (Checking) | $9,000,000 | 2018-06-22 |
+| HSBC Bank Bermuda Limited → The Haze Trust (Checking) | $58,328 | 2018-08-20 |
+| The Haze Trust (DBAGNY) → Southern Financial LLC (Checking) | $5,000,000 | 2018-08-20 |
+| *(6 additional wires — see Master Wire Ledger, Exhibit D)* | | |
+
+### Corpus Statistics Source
+**Method**: Entity co-occurrence analysis across files containing "Haze Trust" and auction house entity variants.
+**Database**: 1,476,377 files, 11.4M extracted entities (see METHODOLOGY.md).
+
+### Scope Note
+Haze Trust also co-occurs with Financial Trust Company (19 shared files), which banked at Bear Stearns. The HSBC Bermuda wire ($58,328) confirms an offshore banking relationship beyond Deutsche Bank. See N11 for full multi-bank context.
+
+### 📊 Verify in Forensic Workbook
+
+| Exhibit / Analysis | View in Workbook |
+|---|---|
+| Master Wire Ledger — Exhibit D (Haze Trust wires) | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=2043824625#gid=2043824625) |
+| Shell Network — Haze Trust co-occurrence | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1040516313#gid=1040516313) |
+| Entity P&L — Haze Trust | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1497389416#gid=1497389416) |
+| Methodology | [📊 Open Tab](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?gid=1840632994#gid=1840632994) |
+
+### How to Verify
+EFTA document IDs from public DOJ release at [efts.gov](https://efts.gov). Wire data from EFTA00027019 Exhibit D. Full methodology in [METHODOLOGY.md](METHODOLOGY.md).
