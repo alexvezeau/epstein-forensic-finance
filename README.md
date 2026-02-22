@@ -249,6 +249,7 @@ The financial data tells stories that numbers alone cannot convey. As I complete
 | 8 | [The Infrastructure of Access](narratives/08_infrastructure_of_access.md) | The people who moved the money are the same people victims named — Maxwell in 204 financial docs and 1,312 victim docs | 11.4M entities · 1.48M files |
 | 9 | [734,122 Names](narratives/09_734122_names.md) | Asked every person in 1.48M files who bridges financial and victim docs. 57 real names. 10 operational staff. No one hiding who hasn't been found | 734,122 persons · 57 bridgers |
 | 10 | [The Round Number Problem](narratives/10_the_round_number_problem.md) | Benford's Law fails: digits 2 and 5 at 29.7% and 18.4%. 84.3% of wires are exact round numbers. One decision-maker, not a market | 185 wires · $557M |
+| 11 | [The Shell Map](narratives/11_the_shell_map.md) | Wire ledger captured 7 entities. The corpus contains 14 — with 178K money references. Four shells never appeared in a wire transfer | 14 shells · 178K money refs |
 
 *These narratives will be data-driven — every claim anchored to specific wire transfers, entity classifications, and court exhibit references from the master ledger.*
 
