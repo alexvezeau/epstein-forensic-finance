@@ -50,7 +50,7 @@ To my knowledge, this represents the first systematic attempt to reconstruct the
 | **Extraction Coverage** | **104.6%** |
 | **Extraction Phases** | 25 |
 | **Contamination Bugs Caught & Fixed** | 9 |
-| **Wire Transfers in Master Ledger** | 382 |
+| **Wire Transfers in Master Ledger** | 382 (Phase 25 audited) |
 | **Shell-to-Shell Transfers Identified** | 43 |
 | **Shell Trust Hierarchy Tiers Mapped** | 4 |
 
@@ -186,6 +186,7 @@ Phases 14-25  Wire Transfer Extraction Pipeline → 382-wire master ledger, $1.9
 | 22 | Forensic scrub — chain-hop inflation removed | -$311M removed |
 | 23 | Date-aware census (same amount, different dates) | +$189M recovered |
 | 24 | Above-cap verified wires + bank custodian audit | +$121M / -$113M |
+| 25 | Date recovery from source context fields | +75 dates (31.9%→51.6%), 0 collisions |
 | **25** | **Date recovery from source context fields** | **75 dates recovered (31.9%→51.6%), 0 collisions** |
 
 Full phase-by-phase details: **[METHODOLOGY.md](METHODOLOGY.md)**
@@ -319,7 +320,7 @@ Director of Finance Administration, large municipal government agency
 BS Network & Cyber Security, Wilmington University
 MS Applied Data Science, Syracuse University
 
-I built this project — every line of extraction code, every database table, every classification rule, every phase of the pipeline — as a solo effort over 200+ hours across 70+ sessions. AI tools (Claude, Anthropic) were used for development acceleration and quality assurance, the same way a solo practitioner might use a calculator or reference library. The analytical judgments, methodology design, and forensic interpretations are mine.
+I built this project — every line of extraction code, every database table, every classification rule, every phase of the pipeline — as a solo effort over 200+ hours across 75+ sessions. AI tools (Claude, Anthropic) were used for development acceleration and quality assurance, the same way a solo practitioner might use a calculator or reference library. The analytical judgments, methodology design, and forensic interpretations are mine.
 
 Professional background: multi-affiliate financial reconciliation, budget auditing, automated classification and exception reporting systems, and large-scale fiscal operations for institutional financial data.
 
@@ -376,9 +377,12 @@ The underlying DOJ documents are U.S. government publications in the public doma
 | Feb 21 | Wire extraction pipeline (Phases 14-24): $1.964B, 104.6% SAR coverage |
 | Feb 21 | Forensic workbook v6.1 published (11 tabs, 382-wire master ledger) |
 | Feb 21 | Phase 25: Date recovery from context fields — 75 dates (31.9%→51.6%), 0 collisions (credit: u/miraculum_one) |
-| Ongoing | Data narratives and follow-on analysis |
+| Feb 21 | Phase 25: Date recovery from context fields — 75 dates (31.9%→51.6%), 0 collisions (credit: u/miraculum_one) |
+| Feb 21 | Repository made public. 7 Data Narratives published |
+| Feb 22 | Narrative 7: Follow the Money, Follow the Plane — wire-flight temporal correlation (4.3× random chance) |
+| Ongoing | Additional data narratives and follow-on analysis |
 
 ---
 
-*200+ hours. 70+ sessions. One person. Built from scratch.*
+*200+ hours. 75+ sessions. One person. Built from scratch.*
 *For the girls.*
