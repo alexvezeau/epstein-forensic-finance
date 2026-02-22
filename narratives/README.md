@@ -26,6 +26,15 @@ All amounts are **(Unverified)** automated extractions. These are not audit find
 
 ---
 
+
+## Interactive Visualizations
+
+| Visualization | Description |
+|--------------|-------------|
+| [Shell Network — Full Architecture](https://randallscott25-star.github.io/epstein-forensic-finance/visualizations/shell_network.html) | Interactive map of all 14 shell entities and 12 banking institutions. Click nodes for detail. Filter by co-occurrence, bank relationships, or wire ledger. |
+
+---
+
 ## How to Read These
 
 Each narrative follows the same structure:
