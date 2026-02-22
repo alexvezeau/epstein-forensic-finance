@@ -1,115 +1,196 @@
-# Trust Network Money Flow
+# Epstein Financial Shell Network
 
-**4-Tier Shell Hierarchy — All Amounts (Unverified)**
+**14 entities · 8+ banks · 178,592 money references · 1.48M documents**
+
+> **📊 [Open the Interactive Visualization](https://randallscott25-star.github.io/epstein-forensic-finance/visualizations/shell_network.html)** — Click any node for detail panel. Filter by shell co-occurrence, bank relationships, or Deutsche Bank wire ledger.
+
+---
+
+## Network Architecture
 
 ```mermaid
 flowchart TD
-    subgraph EXTERNAL["EXTERNAL SOURCES — $232.5M Inflow"]
-        BLACK["Black Family Partners LP\n+ Leon & Debra Black\n$96.5M total"]
-        ROTHSCHILD["Benjamin Edmond\nde Rothschild\n$15.0M"]
-        NARROW["Narrow Holdings LLC\nc/o Elysium Management\n$20.0M"]
-        BLOCKCHAIN["Blockchain Capital\nIV + III + Parallel\n$15.0M"]
-        TUDOR["Tudor Futures Fund\n$13.5M"]
-        KELLERHALS["Kellerhals Ferguson\nKroblin PLLC\n$23.1M"]
-        SOTHEBYS["Sotheby's\n$11.2M"]
-        CHRISTIES["Christie's Inc.\n$7.7M"]
+    subgraph SOURCES["EXTERNAL SOURCES"]
+        BLACK["Leon Black / Apollo\n$60.5M"]
+        ROTHSCHILD["Rothschild\n$25M"]
+        AUCTIONS["Sotheby's / Christie's\n$19M"]
+        TUDOR["Tudor Futures\n$13.5M"]
+        KELLERHALS["Kellerhals Ferguson\n$23.1M"]
     end
 
-    subgraph TIER1["TIER 1 — HOLDING TRUSTS (Receive External Deposits)"]
-        ST["Southern Trust\nCompany Inc.\n$151.5M received"]
-        CAT["The 2017\nCaterpillar Trust\n$15.0M received"]
+    subgraph BANKS["BANKING INSTITUTIONS"]
+        BS["🏦 Bear Stearns\n2.4M money refs\n#1 by volume"]
+        JPM["🏦 JPMorgan Chase\n744K money refs"]
+        DB["🏦 Deutsche Bank\n415K money refs\n$150M DFS fine → wire production"]
+        WF["🏦 Wells Fargo · BofA\nTD · PNC · Sabadell"]
+        OTHER_BANK["🏦 Citibank · HSBC\nGoldman · Morgan Stanley\nBank of Hawaii"]
     end
 
-    subgraph TIER2["TIER 2 — DISTRIBUTION TRUSTS (Redistribute Internally)"]
-        HAZE_DB["The Haze Trust\n(DBAGNY)\n$49.7M distributed"]
-        HAZE_CK["The Haze Trust\n(Checking)\n$21.8M received"]
-        SF["Southern Financial LLC\n$14.0M received"]
-        SF_CK["Southern Financial\n(Checking)\n$32.0M received"]
+    subgraph HUB["CORE HUB — 163 shared documents"]
+        ST["🔶 Southern Trust Co.\n883 files · $244M wires\n78,569 money refs"]
+        SF["🔶 Southern Financial\n628 files · $139M wires\n57,208 money refs"]
     end
 
-    subgraph TIER3["TIER 3 — OPERATING SHELLS (Pay Beneficiaries)"]
-        JEEPERS_B["Jeepers Inc.\n(DB Brokerage)\n$51.9M disbursed"]
-        JEEPERS["Jeepers Inc.\n$6.0M fed to brokerage"]
-        PLAND["Plan D LLC\n$18.0M disbursed"]
-        GRAT["Gratitude America\nMMDA\n$6.3M disbursed"]
-        NES["NES LLC\n$554K disbursed"]
-        KAHN_ENT["Richard Kahn\n(Attorney)\n$9.3M disbursed"]
-        HALP["Halperin\n$3.2M disbursed"]
+    subgraph BROKERAGE["BROKERAGE CLUSTER — Bear Stearns"]
+        FTC["🔴 Financial Trust Co.\n1,014 files · 325 financial\n❌ NO WIRE RECORD\nPrimary bank: Bear Stearns"]
+        EC["🔴 Epstein & Co Inc.\n400 files · 174 financial\n❌ NO WIRE RECORD"]
+        JEE["🔶 Jeepers Inc.\n270 files · $58M wires"]
     end
 
-    subgraph TIER4["TIER 4 — PERSONAL ACCOUNTS (Terminal Destinations)"]
-        EPSTEIN["Jeffrey Epstein\nNOW/SuperNow Account\n$83.4M received\n$0 outflow"]
-        INDYKE["Darren Indyke\n(Estate Attorney)\n$6.4M received"]
+    subgraph TRUSTS["TRUST LAYER"]
+        HAZE["🔶 Haze Trust\n186 files · $126M wires\nHSBC Bermuda connection"]
+        BUTT["🔴 Butterfly Trust\n219 files · 73 financial\n❌ NO WIRE RECORD"]
+        INS["🔴 Insurance Trust\n71 files · 7,800 money refs\n❌ NO WIRE RECORD"]
+        GRAT["🔶 Gratitude America\n209 files · $45M wires\nDeutsche Bank + Morgan Stanley"]
     end
 
-    subgraph BENEFICIARIES["EXTERNAL BENEFICIARIES — $63.3M Outflow"]
-        LEON["Leon Black\n$21.2M received\n(Plan D + Halperin)"]
-        ITO["Joichi Ito\n$1.0M"]
-        COATUE["Coatue Enterprises\n$2.0M"]
-        MAXWELL["Ghislaine Maxwell\n$539K"]
-        MORRIS["Paul Morris\n$8.5M"]
-        CHARITIES["Medical Charities\n$425K"]
+    subgraph COMMS["COMMUNICATION HUB"]
+        HBRK["🟣 HBRK Associates\n13,389 files · 13,146 EMAILS\n❌ NO WIRE RECORD\nOperational nerve center"]
     end
 
-    subgraph BANKS["BANK/CUSTODIAN LAYER"]
-        DEUTSCHE["Deutsche Bank\n78 wires\n(Primary Custodian)"]
-        MS_CITI["Morgan Stanley\n/ Citibank"]
+    subgraph DISBURSEMENT["MULTI-BANK DISBURSEMENT"]
+        OMT["🔴 Outgoing Money Trust\n195 files · 180 financial\n❌ NO WIRE RECORD\n7 banks: DB · WF · BofA\nJPM · TD · PNC · Sabadell"]
     end
 
-    %% External → Tier 1
-    BLACK -->|"$96.5M"| ST
-    ROTHSCHILD -->|"$15.0M"| ST
-    NARROW -->|"$20.0M"| ST
-    BLOCKCHAIN -->|"$15.0M"| CAT
+    subgraph PERIPHERY["PERIPHERY"]
+        PLAND["Plan D LLC\n$41M wires"]
+        NAUT["Nautilus Inc.\nAircraft operations"]
+        EI["Epstein Interests\nHolding company"]
+    end
+
+    subgraph OUTFLOW["OUTFLOW RECIPIENTS"]
+        FUNDS["Investment Funds\n$131M+"]
+        PEOPLE["Individuals\n$25M+"]
+        EPSTEIN["Epstein Personal\n$107.3M terminal"]
+    end
+
+    %% Sources → Hub
+    BLACK -->|"$60.5M"| ST
+    ROTHSCHILD -->|"$25M"| ST
     TUDOR -->|"$13.5M"| SF
-
-    %% External → Tier 2
-    SOTHEBYS -->|"$11.2M"| HAZE_CK
-    CHRISTIES -->|"$7.7M"| HAZE_CK
-
-    %% External → Tier 4
+    AUCTIONS -->|"$19M"| HAZE
     KELLERHALS -->|"$23.1M"| EPSTEIN
 
-    %% Tier 2 Internal redistribution
-    HAZE_DB -->|"$32.0M"| SF_CK
-    HAZE_DB -->|"$10.0M"| ST
-    HAZE_DB -->|"$5.0M"| SF
-    HAZE_DB -->|"$2.7M"| HAZE_CK
+    %% Hub interconnections
+    ST <-->|"$67.9M\n163 shared docs"| SF
 
-    %% Tier 3 Operations
-    JEEPERS -->|"$6.0M"| JEEPERS_B
-    JEEPERS_B -->|"$51.9M (21 wires)"| EPSTEIN
+    %% Brokerage → Hub
+    FTC -->|"126 shared docs"| EC
+    FTC -->|"125 shared docs"| JEE
+    FTC -->|"92 shared docs"| ST
+    JEE -->|"$51.9M"| ST
+    EC -->|"73 shared docs"| SF
 
-    %% Tier 3 → Beneficiaries
-    PLAND -->|"$18.0M (4 wires)"| LEON
-    HALP -->|"$3.2M"| LEON
-    KAHN_ENT -->|"$8.5M"| MORRIS
-    NES -->|"$539K"| MAXWELL
-    GRAT -->|"$5.5M"| MS_CITI
-    GRAT -->|"$425K"| CHARITIES
-    SF -->|"$2.0M"| COATUE
-    SF -->|"$1.0M"| ITO
+    %% Trusts → Hub
+    HAZE -->|"$32M"| SF
+    HAZE -->|"$15M"| ST
+    BUTT -->|"61 shared docs"| ST
+    GRAT -->|"50 shared docs"| ST
+    INS --> ST
 
-    %% Bank layer
-    DEUTSCHE -.->|"custodian for"| HAZE_DB
-    DEUTSCHE -.->|"$5.8M"| INDYKE
+    %% Communication hub touches everything
+    HBRK -.->|"111 docs"| ST
+    HBRK -.->|"104 docs"| SF
+    HBRK -.->|"37 docs"| BUTT
+    HBRK -.->|"32 docs"| HAZE
+    HBRK -.->|"30 docs"| GRAT
+
+    %% Multi-bank disbursement
+    OMT --> ST
+
+    %% Periphery
+    PLAND -->|"$41M"| ST
+    NAUT --> SF
+    EI -->|"41 shared docs"| FTC
+
+    %% Banks → Shells
+    BS -.->|"66 files · 6,910 money refs"| FTC
+    JPM -.-> OMT
+    DB -.->|"wire production"| ST
+    DB -.-> SF
+    DB -.-> HAZE
+    DB -.-> GRAT
+    DB -.-> BUTT
+    DB -.-> INS
+    WF -.->|"63 files"| OMT
+    OTHER_BANK -.-> HAZE
+    OTHER_BANK -.-> GRAT
+
+    %% Hub → Outflow
+    SF --> FUNDS
+    SF --> PEOPLE
+    GRAT -->|"$225K"| FUNDS
+    PLAND --> PEOPLE
+    JEE -->|"$51.9M"| EPSTEIN
 
     %% Styling
-    classDef external fill:#d5f5e3,stroke:#27ae60,stroke-width:2px,color:#1b4332
-    classDef tier1 fill:#a9dfbf,stroke:#1e8449,stroke-width:3px,color:#145a32
-    classDef tier2 fill:#fce4d6,stroke:#e67e22,stroke-width:2px,color:#7e4a12
-    classDef tier3 fill:#fadbd8,stroke:#e74c3c,stroke-width:2px,color:#78281f
-    classDef tier4 fill:#d6eaf8,stroke:#2980b9,stroke-width:3px,color:#1a3c5e
-    classDef beneficiary fill:#f9e79f,stroke:#f39c12,stroke-width:2px,color:#7d5a00
-    classDef bank fill:#d5d8dc,stroke:#7f8c8d,stroke-width:1px,color:#2c3e50
+    classDef hub fill:#2d2d1a,stroke:#e8c170,stroke-width:3px,color:#e8c170
+    classDef nowire fill:#2d1a1a,stroke:#c86464,stroke-width:2px,color:#c86464
+    classDef wire fill:#1a2d2d,stroke:#6ad0a0,stroke-width:1px,color:#6ad0a0
+    classDef bank fill:#1a1a2d,stroke:#6aa4d0,stroke-width:2px,color:#6aa4d0
+    classDef source fill:#1a2d1a,stroke:#80c880,stroke-width:1px,color:#80c880
+    classDef outflow fill:#2d2d1a,stroke:#d0c86a,stroke-width:1px,color:#d0c86a
+    classDef comms fill:#2d1a2d,stroke:#c86ac8,stroke-width:2px,color:#c86ac8
 
-    class BLACK,ROTHSCHILD,NARROW,BLOCKCHAIN,TUDOR,KELLERHALS,SOTHEBYS,CHRISTIES external
-    class ST,CAT tier1
-    class HAZE_DB,HAZE_CK,SF,SF_CK tier2
-    class JEEPERS_B,JEEPERS,PLAND,GRAT,NES,KAHN_ENT,HALP tier3
-    class EPSTEIN,INDYKE tier4
-    class LEON,ITO,COATUE,MAXWELL,MORRIS,CHARITIES beneficiary
-    class DEUTSCHE,MS_CITI bank
+    class ST,SF hub
+    class FTC,EC,BUTT,INS,OMT nowire
+    class JEE,HAZE,GRAT,PLAND,NAUT,EI wire
+    class BS,JPM,DB,WF,OTHER_BANK bank
+    class BLACK,ROTHSCHILD,AUCTIONS,TUDOR,KELLERHALS source
+    class FUNDS,PEOPLE,EPSTEIN outflow
+    class HBRK comms
 ```
 
-*All amounts are (Unverified) automated extractions from DOJ EFTA documents. Appearance does not imply wrongdoing.*
+---
+
+## How to Read This
+
+| Symbol | Meaning |
+|--------|---------|
+| 🔶 **Gold** | Core hub — Southern Trust and Southern Financial. Every entity connects to at least one. |
+| 🔴 **Red** | No wire transfer record in Deutsche Bank production. Banked at other institutions. |
+| 🟣 **Purple** | Communication hub — HBRK Associates routes 13,146 emails across the network. |
+| 🏦 **Blue** | Banking institutions. Deutsche Bank produced the wire records; Bear Stearns had 5.7× more money activity. |
+| **Solid lines** | Verified wire transfers (dollar amounts) or strong document co-occurrence (shared file counts). |
+| **Dashed lines** | Banking relationships or communication connections. |
+| **❌ NO WIRE RECORD** | Entity appears in hundreds of financial documents but has zero verified wires in the Deutsche Bank production. These entities banked elsewhere. |
+
+---
+
+## Entity Reference
+
+| Entity | Total Files | Financial Docs | Money Refs | Wire Ledger | Primary Bank |
+|--------|-----------|----------------|------------|-------------|-------------|
+| Southern Trust Co. | 883 | 178 | 78,569 | ✅ $244M | Deutsche Bank |
+| Southern Financial LLC | 628 | 118 | 57,208 | ✅ $139M | Deutsche Bank |
+| Financial Trust Co. | 1,014 | 325 | — | ❌ | Bear Stearns |
+| Epstein & Co Inc. | 400 | 174 | 10,482 | ❌ | Bear Stearns |
+| HBRK Associates | 13,389 | 95 | — | ❌ | — (email hub) |
+| Gratitude America | 209 | 89 | 10,407 | ✅ $45M | Deutsche Bank + Morgan Stanley |
+| Haze Trust | 186 | 12 | 8,486 | ✅ $126M | Deutsche Bank + HSBC |
+| Outgoing Money Trust | 195 | 180 | 2,338 | ❌ | 7 banks |
+| Butterfly Trust | 219 | 73 | 3,302 | ❌ | Deutsche Bank |
+| Insurance Trust | 71 | 49 | 7,800 | ❌ | Deutsche Bank |
+| Jeepers Inc. | 270 | 19 | — | ✅ $58M | Deutsche Bank |
+| Epstein Interests | 116 | 28 | — | ❌ | — |
+| Nautilus Inc. | 149 | 13 | — | ❌ | — (aircraft) |
+| Plan D LLC | 55 | 8 | — | ✅ $41M | Deutsche Bank |
+
+## Banking Institutions by Volume
+
+| Bank | Money Mentions | Financial Files | Key Connection |
+|------|---------------|-----------------|----------------|
+| **Bear Stearns** | **2,381,211** | 191 | Financial Trust Co (66 shared files, 6,910 mentions) |
+| **JPMorgan/Chase** | **744,536** | 615 | Outgoing Money Trust, Financial Trust Co |
+| **Deutsche Bank** | **415,287** | 1,564 | All wire-ledger shells — source of Exhibits A–E |
+| Citibank | 78,176 | 39 | Gratitude America |
+| Goldman Sachs | 14,999 | 25 | TBD |
+| HSBC | 13,389 | 44 | Haze Trust (Bermuda) |
+| Morgan Stanley | 13,255 | 82 | Gratitude America |
+| Bank of Hawaii | — | 734 | USVI operations (2,431 total files) |
+
+---
+
+*All amounts are (Unverified) automated extractions from DOJ EFTA documents. Appearance does not imply wrongdoing. See [Narrative 11: The Shell Map](narratives/11_the_shell_map.md) for the complete analysis. Supporting data: [Forensic Workbook (view-only)](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?usp=sharing&ouid=103970896670138914877&rtpof=true&sd=true) · [Master Wire Ledger](data/master_wire_ledger_phase25.json).*
+
+*For the girls.*
