@@ -18,6 +18,7 @@ All amounts are **(Unverified)** automated extractions. These are not audit find
 | 4 | [Chain-Hop Anatomy](04_chain_hop_anatomy.md) | How money moved through the 4-tier shell network — and how I caught $311M in inflation | 67 | $312,796,381 |
 | 5 | [Deutsche Bank's Role](05_deutsche_bank.md) | 38 wires across every major Epstein entity, 75% of volume in last 6 months | 38 | $56,792,936 |
 | 6 | [Gratitude America](06_gratitude_america.md) | Charity sent 88% of outflows to investment accounts, 7% to charitable purposes | 20 | $13,080,518 |
+| 7 | [Follow the Money, Follow the Plane](07_follow_the_money_follow_the_plane.md) | Wire transfers and Epstein aircraft flights overlap at 4.3× random chance; $169M within ±3 days of St. Thomas flights | 185 + 321 flights | $575,359,330 |
 
 ---
 
