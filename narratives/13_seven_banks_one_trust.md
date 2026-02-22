@@ -44,11 +44,11 @@ The account also shows a balance figure of **$2,668,832.43** appearing across 15
 
 Two names recur across Outgoing Money Trust financial documents:
 
-**Stewart Oldfield** — appears on 35 files across OCR variants (23 as "Stewart Oldfield," 12 as "Stewart Oldficld"). This is the most frequently named individual on Outgoing Money Trust records. Oldfield appears to be a signatory or authorized party on the accounts.
+**Stewart Oldfield** — appears on 35 files across OCR variants (23 as "Stewart Oldfield," 12 as "Stewart Oldficld"). This is the most frequently named individual on Outgoing Money Trust records. External reporting from other EFTA researchers identifies a Stewart Oldfield as Deutsche Bank operations staff who processed Epstein-related transactions alongside colleagues Brigid Macias and Firdaus Madiar — suggesting Oldfield was the bank's representative on these accounts rather than an Epstein associate. His recurrence across 35 OMT files indicates he was the primary Deutsche Bank officer servicing this trust's disbursement activity.
 
 **Lee McKenzie Consultants** — appears on 12 files. This entity appears as a payee, suggesting recurring consulting payments from the trust.
 
-Neither name appears prominently on any other Epstein shell entity's financial records, suggesting these individuals operated specifically within the Outgoing Money Trust disbursement function.
+Neither name appears prominently on other Epstein shell entities' financial records at this frequency, suggesting their roles were concentrated in the Outgoing Money Trust's disbursement operations — Oldfield as the Deutsche Bank officer processing the transactions, and Lee McKenzie Consultants as a recurring payee.
 
 ## Why Seven Banks Matters
 

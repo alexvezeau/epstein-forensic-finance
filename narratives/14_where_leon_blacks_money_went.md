@@ -1,6 +1,6 @@
 # Narrative 14: Where Leon Black's Money Went
 
-**Leon Black paid Jeffrey Epstein at least $60.5 million in verified wire transfers. Our analysis traces the downstream flow through every shell in the network — into Apollo Management, Elysium, Coatue, Boothbay, Honeycomb, Valar, and back to Black's own family office.**
+**Leon Black's entities paid Jeffrey Epstein approximately $158–170 million. Our wire ledger independently verified $60.5 million of that total. Our analysis traces the downstream flow through every shell in the network — into Apollo Management, Elysium, Coatue, Boothbay, Honeycomb, Valar, and back to Black's own family office.**
 
 ---
 
@@ -50,7 +50,9 @@ No other external individual touches all seven shells. Leon Black's financial re
 
 ## Following the Money Downstream
 
-Black's $60.5 million in wire transfers entered the network primarily through Southern Trust Company. What happened after it arrived has not been publicly traced — until now.
+Black's payments to Epstein entered the network primarily through Southern Trust Company. The 2021 Dechert LLP review commissioned by Apollo's board documented approximately $158–170 million in total payments from Black to Epstein across all channels. Court exhibits reviewed by other EFTA researchers identify 14 separate wire transfers from five Black-controlled entities (Black Family Partners LP, Leon and Debra Black, BV70 LLC, Narrow Holdings LLC, and Elysium Management) totaling $168 million into Southern Trust Company alone. Our wire ledger independently captured and verified $60.5 million of that total — a subset, not the full picture.
+
+What happened after the money arrived has not been publicly traced — until now.
 
 Our co-occurrence analysis of Southern Trust Company's financial documents against known investment fund entities reveals a direct downstream pipeline:
 
@@ -81,17 +83,17 @@ Leon Black publicly characterized his payments to Epstein as compensation for "t
 
 Our data doesn't evaluate whether the payments were for legitimate services. What it does show is the path the money took after entering the network:
 
-**Step 1:** Black Family Partners and Elysium Management wire funds to Southern Trust Company ($60.5 million in verified wire transfers from our ledger).
+**Step 1:** Black Family Partners, BV70 LLC, Narrow Holdings, Leon and Debra Black, and Elysium Management wire funds to Southern Trust Company (~$168 million per court exhibits; $60.5 million independently verified in our ledger).
 
 **Step 2:** Southern Trust Company financial records show co-occurring transactions with Apollo Management (13 files), Elysium Management (9 files), and Black Family Partners c/o Apollo Management (2 files).
 
 **Step 3:** Southern Trust Company financial records also show co-occurring transactions with Boothbay, Honeycomb, Valar, and Coatue — the same investment funds that received outflows from other Epstein entities including Gratitude America (see [Narrative 15](15_gratitude_america.md)).
 
-The question is not whether Black paid Epstein. That's established. The question is whether money that entered Southern Trust Company from Black entities subsequently flowed to accounts that Black entities also controlled or benefited from — and whether the "tax and estate planning" characterization adequately describes a relationship that touched every shell in a 14-entity network moving $1.964 billion.
+The question is not whether Black paid Epstein. That's established — approximately $168 million through five entities. The question is whether money that entered Southern Trust Company from Black entities subsequently flowed to accounts that Black entities also controlled or benefited from — and whether the "tax and estate planning" characterization adequately describes a relationship that touched every shell in a 14-entity network moving $1.964 billion.
 
 ## What the Dechert Review Didn't Have
 
-The Dechert LLP review examined Black's direct payments to Epstein. It did not have access to the full EFTA document corpus. It could not perform the kind of cross-entity co-occurrence analysis that shows Black's financial footprint intersecting with every shell simultaneously.
+The Dechert LLP review examined Black's direct payments to Epstein and documented the $158–170 million total. But it did not have access to the full EFTA document corpus. It could not perform the kind of cross-entity co-occurrence analysis that shows Black's financial footprint intersecting with every shell simultaneously.
 
 It did not know, for example, that Financial Trust Company — the entity with the most financial records in the network — shares 46 documents with Leon Black variants. Or that Southern Trust Company's outflow records show Apollo Management on 13 files. Or that Gratitude America, a purported charity, was routing money to the same Boothbay, Honeycomb, and Valar funds that appear on Southern Trust documents alongside Black entities.
 
