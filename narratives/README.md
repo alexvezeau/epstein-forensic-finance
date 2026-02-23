@@ -40,7 +40,6 @@ This is the first complete balance sheet ever run on the Epstein shell network �
 | 14 | [Where Leon Black's Money Went](14_where_leon_blacks_money_went.md) | Black's entities paid Epstein $158–170M. Our wire ledger verified $60.5M. Downstream flow traced through every shell in the network | 1,600 files · $60.5M verified |
 | 15 | [Gratitude America (Expanded)](15_gratitude_america.md) | Karyna Shuliak biographical corrections. Estate bequest $50–100M. Charitable entity as beneficiary designation vehicle | 20 wires · estate records |
 | 16 | [The Accountant](16_the_accountant.md) | The financial professionals who maintained the architecture — trustees, estate counsel, and compliance gatekeepers | 29 corpus appearances · 5 key figures |
-| 17 | [One-Way Money](17_the_architecture.md) | ⬆️ Featured above — the full multi-institution balance sheet | 382 wires · 158 entities · $558M |
 
 ---
 
