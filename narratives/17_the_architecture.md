@@ -268,7 +268,7 @@ I cannot say where the $209 million went. The production doesn't show me.
 
 I cannot say whether the asymmetry in the filing — comprehensive inflows, selective outflows — was intentional or accidental. Deutsche Bank chose what to put in those five exhibits. Other institutions chose what to include in their productions. I work with what they gave the court.
 
-I cannot say what any of these patterns mean in terms of legal liability. I'm a forensic accountant, not a prosecutor.
+I cannot say what any of these patterns mean in terms of legal liability. I'm conducting forensic financial analysis, not a prosecution.
 
 I report what the data shows. The data shows an architecture.
 
