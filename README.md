@@ -259,28 +259,13 @@ Only one gap ($5-15M excluded tiers) has a credible dollar estimate. The others 
 
 ---
 
-## 🔺 New Finding: One-Way Money
-
-I ran a balance sheet on the nine shell entities at the center of Epstein's financial network — not one bank at a time, but across all eight banking institutions, all 382 wires, all $558 million in the master ledger.
-
-**$272 million entered from external sources. $63 million is visible leaving. The other $209 million has no documented exit in any production from any institution.**
-
-The banks recorded every dollar going in. Almost none of it is recorded coming out. That's not a gap in my analysis — that's a gap in theirs. Nine shells, five exhibits, eight banks, and not one of them produced a complete outbound record.
-
-Nobody has published this before. Not the DOJ. Not the banks. Not the press. This is the first multi-institution balance sheet ever run on the Epstein shell network.
-
-**→ [Read the full analysis: Narrative 17 — One-Way Money](narratives/17_the_architecture.md)**
-**→ [Interactive Visualization: Five-Layer Architecture](https://randallscott25-star.github.io/epstein-forensic-finance/visualizations/17_one_way_money.html)**
-
----
-
 ## Data Narratives
 
 **→ [Read all Data Narratives](narratives/)**
 
 | # | Title | Key Finding | Data Scope |
 |---|-------|-------------|------------|
-| **17** | **[One-Way Money](narratives/17_the_architecture.md)** | **$272M in. $63M out. $209M gap. First complete balance sheet.** | **382 wires · 158 entities · $558M** |
+| **17** | **[One-Way Money](narratives/17_the_architecture.md)** | **$272M in. $63M out. $209M gap. First multi-institution balance sheet.** | **382 wires · 158 entities · $558M** |
 | 1 | [The Jeepers Pipeline](narratives/01_jeepers_pipeline.md) | $57.9M brokerage shell → personal checking, all dated, all on Exhibit C | 24 wires · $57,876,640 |
 | 2 | [Art Market as Liquidity Channel](narratives/02_art_market.md) | Sotheby's + Christie's proceeds entered the shell network through Haze Trust | 20 wires · $103,786,473 |
 | 3 | [The Plan D Question](narratives/03_plan_d_question.md) | $18M out to Leon Black, near-zero inflow — where did Plan D get its money? | 34 wires · $163,097,604 |
