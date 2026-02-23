@@ -228,9 +228,9 @@ A terminal sink is an entity that receives money and never sends any. A ghost so
 | HEATHER_GRAY | 3 | $17,637,750 |
 | SPINELLA | 3 | $17,637,750 |
 | The 2017 Caterpillar Trust | 3 | $15,000,000 |
-| ITO | 5 | $10,260,000 |
+| ITO | 8 | $11,260,001 |
 | BUTTERFLY_TRUST | 4 | $6,350,000 |
-| Gratitude America Ltd. | 2 | $5,500,000 |
+| Gratitude America Ltd. | 4 | $5,800,000 |
 | RICHARD_JOSLIN | 3 | $3,567,000 |
 | Coatue Enterprises LLC | 4 | $2,000,000 |
 
@@ -320,4 +320,4 @@ I report what the data shows. The data shows an architecture.
 
 **All 12 DOJ Datasets:** <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-1-files" target="_blank">1</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-2-files" target="_blank">2</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-3-files" target="_blank">3</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-4-files" target="_blank">4</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-5-files" target="_blank">5</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-6-files" target="_blank">6</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-7-files" target="_blank">7</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-8-files" target="_blank">8</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-9-files" target="_blank">9</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-10-files" target="_blank">10</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-11-files" target="_blank">11</a>, <a href="https://www.justice.gov/epstein/doj-disclosures/data-set-12-files" target="_blank">12</a>
 
-All EFTA document IDs are from the public DOJ release under the Epstein Files Transparency Act at <a href="https://efts.gov" target="_blank">efts.gov</a>. Full methodology in [METHODOLOGY.md](../docs/METHODOLOGY.md).
+All EFTA document IDs are from the public DOJ release under the Epstein Files Transparency Act at <a href="https://efts.gov" target="_blank">efts.gov</a>. Full methodology in [METHODOLOGY.md](../METHODOLOGY.md).
