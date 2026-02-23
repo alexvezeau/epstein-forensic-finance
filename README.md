@@ -19,7 +19,14 @@ To my knowledge, this represents the first systematic attempt to reconstruct the
 
 ## 📌 Start Here
 
-> **16 data narratives** reconstruct how $1.964 billion moved through 14 shell entities across 8+ banking institutions. Every claim is anchored to specific court exhibits and bates stamps.
+### 🔺 New: One-Way Money
+
+> I ran a balance sheet across all eight banking institutions, all 382 wires, all $558 million. **$272 million entered from external sources. $63 million is visible leaving. $209 million has no documented exit in any production from any institution.** This is the first multi-institution balance sheet ever published on the Epstein shell network.
+>
+> **→ [Read Narrative 17](narratives/17_the_architecture.md)** · **<a href="https://randallscott25-star.github.io/epstein-forensic-finance/visualizations/17_one_way_money.html" target="_blank">Interactive Visualization</a>**
+
+
+> **17 data narratives** reconstruct how $1.964 billion moved through 14 shell entities across 8+ banking institutions. Every claim is anchored to specific court exhibits and bates stamps.
 >
 > **→ [Read the Data Narratives](narratives/)** · **<a href="https://randallscott25-star.github.io/epstein-forensic-finance/visualizations/shell_network.html" target="_blank">Explore the Interactive Network</a>** · **<a href="https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?usp=sharing&ouid=103970896670138914877&rtpof=true&sd=true" target="_blank">View the Forensic Workbook</a>**
 
@@ -41,6 +48,7 @@ To my knowledge, this represents the first systematic attempt to reconstruct the
 | 14 | [Where Leon Black's Money Went](narratives/14_where_leon_blacks_money_went.md) | 1,600 files. Every shell. $60.5M in, Apollo Management out the other side |
 | 15 | [Gratitude America: The Charity That Invested](narratives/15_gratitude_america.md) | 83% to hedge funds, Epstein's girlfriend on the records, IRS no statute of limitations |
 | 16 | [The Accountant](narratives/16_the_accountant.md) | Richard Kahn's CPA firm: 18,833 emails across every shell in the network |
+| **17** | **[One-Way Money](narratives/17_the_architecture.md)** | **$272M in. $63M out. First multi-institution balance sheet. [Visualization](https://randallscott25-star.github.io/epstein-forensic-finance/visualizations/17_one_way_money.html)** |
 
 
 
@@ -265,7 +273,6 @@ Only one gap ($5-15M excluded tiers) has a credible dollar estimate. The others 
 
 | # | Title | Key Finding | Data Scope |
 |---|-------|-------------|------------|
-| **17** | **[One-Way Money](narratives/17_the_architecture.md)** | **$272M in. $63M out. $209M gap. First multi-institution balance sheet.** | **382 wires · 158 entities · $558M** |
 | 1 | [The Jeepers Pipeline](narratives/01_jeepers_pipeline.md) | $57.9M brokerage shell → personal checking, all dated, all on Exhibit C | 24 wires · $57,876,640 |
 | 2 | [Art Market as Liquidity Channel](narratives/02_art_market.md) | Sotheby's + Christie's proceeds entered the shell network through Haze Trust | 20 wires · $103,786,473 |
 | 3 | [The Plan D Question](narratives/03_plan_d_question.md) | $18M out to Leon Black, near-zero inflow — where did Plan D get its money? | 34 wires · $163,097,604 |
@@ -282,6 +289,7 @@ Only one gap ($5-15M excluded tiers) has a credible dollar estimate. The others 
 | 14 | [Where Leon Black's Money Went](narratives/14_where_leon_blacks_money_went.md) | 1,600 files, every shell, "Black Family Partners LP c/o Apollo Management" — the round trip | 1,600 files · $60.5M · 7 shells |
 | 15 | [Gratitude America: The Charity That Invested](narratives/15_gratitude_america.md) | Tax-exempt charity routing $2–20M to Boothbay, Honeycomb, Valar, Coatue | 89 financial · $45M wires |
 | 16 | [The Accountant](narratives/16_the_accountant.md) | Richard Kahn / HBRK Associates: 18,833 emails, 11,153 files, touches every shell | 18,833 emails · 11,153 files |
+| 17 | [One-Way Money](narratives/17_the_architecture.md) | $272M in. $63M out. $209M gap. First multi-institution balance sheet | 382 wires · 158 entities · $558M |
 
 Source workbook: **[Forensic Workbook](https://docs.google.com/spreadsheets/d/11lw0QjMZ-rYIjWesv5VG1YKts57ahPEm/edit?usp=sharing&ouid=103970896670138914877&rtpof=true&sd=true)** · [Interactive Shell Network](https://randallscott25-star.github.io/epstein-forensic-finance/visualizations/shell_network.html)
 
